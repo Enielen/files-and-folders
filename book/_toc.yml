@@ -4,6 +4,8 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
+    - file: h5p/example1.md
+    - file: h5p/example2.md
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
