@@ -7,7 +7,7 @@ parts:
     - file: part1/part1.md
     # - file: h5p/example1.md
     # - file: h5p/example2.md
-    # - file: some_content/overview.md
+    - file: some_content/overview.md
       sections:
-      # - file: some_content/text_and_code.ipynb
+      - file: some_content/text_and_code.ipynb
     - file: references.md
