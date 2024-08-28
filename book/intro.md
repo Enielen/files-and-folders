@@ -1,6 +1,6 @@
 (intro)=
 # Files and Folders
 
-_Write book intro here. This is the first page the student will see when opening the url._
+Dear student,
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
+This mini-module is a pilot curriculum. It was developed by the Data Literacy Project at TU Delft’s Library Education Support in collaboration with Research Data & Software, the bachelor’s of Civil Engineering program, the TU Delft Library Education Support team, the CiTG data stewards, and the faculty of CiTG’s TeachBooks initiative. We need your feedback on these materials so that we can make improvements for future students. After you’ve completed the module, we will ask for your input in a short survey. Your teacher will announce and post this survey in Brightspace. Thank you in advance for your participation and insights!
