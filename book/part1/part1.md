@@ -12,7 +12,9 @@ This mini module is an opportunity for self-paced, independent learning in sever
 
 - Structure folders effectively to make elements of a research project findable for collaborators and for my future self.
 
-- Explain the concept of a directory tree. · Evaluate whether to store a file locally vs. remotely based on factors such as accessibility, security, and collaboration needs.
+- Explain the concept of a directory tree. 
+
+- Evaluate whether to store a file locally vs. remotely based on factors such as accessibility, security, and collaboration needs.
 
 ### 1b. Pre-quiz
 
