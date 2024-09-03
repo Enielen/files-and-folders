@@ -20,8 +20,28 @@ This mini module is an opportunity for self-paced, independent learning in sever
 
 Before we begin, please take this short pre-quiz (5 questions). The purpose is to evaluate your background knowledge and see which concepts will be new vs. review for you.
 
-<iframe src="https://tudelft.h5p.com/content/XXXXXX/embed" aria-label="MC Example 1" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<style>
+.responsive-iframe {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 58.5%; /* Adjust this value based on the aspect ratio (height/width * 100) */
+}
+.responsive-iframe iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+</style>
+
+<div class="responsive-iframe">
+    <iframe src="https://tudelft.h5p.com/content/XXXXXX/embed" aria-label="Pre quiz" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+</div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 ### 1c. Relevance:
 
@@ -131,5 +151,8 @@ This section discussed many reasons to expand your knowledge of file naming and 
 
 Before proceeding, please reflect on which of the reasons discussed is most important for you and why:
 
-<iframe src="https://tudelft.h5p.com/content/1292336776353802547/embed" aria-label="MC Example 1" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<div class="responsive-iframe">
+  <iframe src="https://tudelft.h5p.com/content/1292336776353802547/embed" aria-label="Quiz 1d" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+</div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
