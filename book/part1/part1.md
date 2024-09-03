@@ -44,7 +44,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 <table>
   <tr>
     <td>
-      <img src="../figures/part1/research_insights.png" alt="Research insights" width="200"/>
+      <img src="../figures/1Ca_research_insights.png" alt="Research insights" width="200"/>
       <p style="font-size: small;"><em>"Research insights" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
@@ -57,7 +57,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 <table>
   <tr>
     <td>
-      <img src="../figures/part1/file_finding.png" alt="Research insights" width="200"/>
+      <img src="../figures/1Cb_file_finding.png" alt="File Finding" width="200"/>
       <p style="font-size: small;"><em>"File finding" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
@@ -70,7 +70,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 <table>
   <tr>
     <td>
-      <img src="../figures/part1/data_management.png" alt="Research insights" width="200"/>
+      <img src="../figures/1Cd_datamanagement_helps_your_future_self.png" alt="Data Management" width="200"/>
       <p style="font-size: small;"><em>"Data management helps your future self" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
@@ -83,7 +83,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 <table>
   <tr>
     <td>
-      <img src="../figures/part1/collaborative_efforts.png" alt="Research insights" width="200"/>
+      <img src="../figures/1Cd_collaborative_efforts.png" alt="Collaborative Efforts" width="200"/>
       <p style="font-size: small;"><em>"Collaborative efforts" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
@@ -96,7 +96,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 <table>
   <tr>
     <td>
-      <img src="../figures/part1/building_blocks.png" alt="Research insights" width="200"/>
+      <img src="../figures/1Ce_building_blocks_programming.png" alt="Building Blocks" width="200"/>
       <p style="font-size: small;"><em>"Building blocks of computer programming" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
@@ -109,7 +109,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 <table>
   <tr>
     <td>
-      <img src="../figures/part1/fair.png" alt="Research insights" width="200"/>
+      <img src="../figures/1Cf_FAIR.png" alt="FAIR" width="200"/>
       <p style="font-size: small;"><em>"FAIR" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
