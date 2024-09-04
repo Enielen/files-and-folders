@@ -168,3 +168,10 @@ Below is a table comparing local and remote access. Read through the table to le
 </table>
 
 ### 4e. Processing
+
+Check your understanding of local vs. remote storage by answering three follow-up questions:
+
+<div class="responsive-iframe">
+  <iframe src="https://tudelft.h5p.com/content/1292367276805070977/embed" aria-label="DirectoryTreeProcessing"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+</div>
+<script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
