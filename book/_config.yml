@@ -19,8 +19,8 @@ sphinx:
     thebe_config:
       use_thebe_lite: true
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
-      bibtex_reference_style: author_year_round
-      bibtex_default_style: myapastyle
+    bibtex_reference_style: author_year_round
+    bibtex_default_style: myapastyle
     html_theme_options:
       repository_url: "https://github.com/TeachBooks/template" #add your own repo URL here
       use_repository_button: true
