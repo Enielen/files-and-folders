@@ -162,32 +162,27 @@ Please note: Full folders are not a problem for projects with folders containing
 
 As mentioned before, it’s a good idea to create a root folder and give it the name of the specific project. Within that root folder, all sub-folders should have their own unique and recognizable names, just like you saw earlier in the video about Folder Rules of Thumb. Otherwise, it can quickly get very confusing.
 
-<!-- <style>
-  td.image-cell {
-    width: 30%; /* Sets the image cell to 30% of the table width */
+<style>
+  td.image-cell2 {
+    width: 50%; /* Sets the image cell to 30% of the table width */
     vertical-align: top; /* Aligns the image to the top */
   }
 
-  td.text-cell {
+  td.text-cell2 {
     width: 70%; /* Sets the text cell to 70% of the table width */
     vertical-align: top; /* Aligns the text to the top */
     padding-left: 20px; /* Optional: Adds some spacing between image and text */
   }
 
-  img {
-    width: 100%; /* Ensures the image fills the 30% width of its cell */
-    height: auto; /* Maintains the aspect ratio of the image */
-    display: block;
-  }
-</style> -->
+</style>
 
 <table>
   <tr>
-    <td class="image-cell">
+    <td class="image-cell2">
       <img src="../figures/3Cb_redundant_folders.png" alt="Research insights" />
-      <p style="font-size: small; text-align:left"><em>"Redundant Folders = Confusion" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+      <p style="font-size: small"><em>"Redundant Folders = Confusion" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
-    <td class="text-cell" style="text-align:left">
+    <td class="text-cell2" style="text-align:left">
       <p>Anke is doing a project about patterns of precipitation linked to cloud formations in the Netherlands. She was granted permission to re-use rainfall data and cloud radar data collected at several government weather stations in Zuid-Holland. She plans to put the raw data files for rainfall in a folder named “Data.” She will save the raw data for the cloud formations into another folder, and name that folder “data.” She pre-processes the datasets by copying and pasting some of the data into a csv file. She saves this pre-processed data in a folder named “DATA.” These folder names are problematic.</p>
     </td>
   </tr>
