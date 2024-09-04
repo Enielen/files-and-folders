@@ -123,9 +123,9 @@ At the top of the hierarchy is a folder which is given the project’s name. Thi
 
 The following video segment was created by the Ghent University data stewards. First, it reiterates best practices for folder organisation. Then, it mentions three big pitfalls to avoid with folder organisation and naming.
 
-<div class="responsive-iframe">
+<!-- <div class="responsive-iframe"> -->
   <iframe src="https://www.youtube.com/embed/YslfY4W-NAg" aria-label="Part3c_video" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
-</div>
+<!-- </div> -->
 <p class="caption">Attribution: Ghent University (CC-BY)</p>
 
 Let’s elaborate on the three pitfalls mentioned in the video and demonstrate with examples.
