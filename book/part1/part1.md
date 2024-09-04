@@ -156,3 +156,5 @@ Before proceeding, please reflect on which of the reasons discussed is most impo
   <iframe src="https://tudelft.h5p.com/content/1292336776353802547/embed" aria-label="Quiz 1d" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<br>

@@ -93,6 +93,7 @@ A team of researchers is doing a comparative study titled “Project Vis.” It 
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
+<br>
 
 <b>Practice B:</b><br>
 Practice applying the first two file naming rules of thumb to a research scenario.
