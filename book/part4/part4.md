@@ -33,7 +33,7 @@ You might ask yourself what the difference between directory tree and folder str
 To understand what a ‘directory tree’ is, let’s have a look at how the file system is organized. For the sake of this example, we’ll be illustrating the filesystem on our scientist Nelle’s computer.
 
 <center>
-<img src="../figures/4B_Graphic_1_directory tree.JPG" alt="Graphic_1" style="width: 400px; height: auto;"/>
+<img src="../figures/4B_Graphic_1_directorytree.JPG" alt="Graphic_1" style="width: 400px; height: auto;"/>
 </center>
 
 The filesystem looks like an upside-down tree. The topmost directory is the root directory that holds everything else. We refer to it using a slash character / on its own; this character is the leading slash in <code>/Users/nelle</code>. Inside that directory are several other directories: bin (which is where some built-in programs are stored), data (for miscellaneous data files), Users (where users’ personal directories are located), tmp (for temporary files that don’t need to be stored long-term), and so on.
