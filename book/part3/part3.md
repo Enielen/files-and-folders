@@ -86,21 +86,24 @@ At the top of the hierarchy is a folder which is given the project’s name. Thi
 
 - Did you also notice that the folder names use underscores instead of spaces, where these green circles are? Also, they do not use any “weird” characters? Folder naming conventions are very similar to file naming conventions. As with file names, folder names must be readable for both humans and for machines. Machines often have trouble interpreting spaces and special characters, so it’s best to avoid them in file and folder naming.
 
-<b>Check your undersatnding:</b> Answer the True or False questions to check your understanding of the rules of thumb for folder organisation.
+<b>Check your understanding:</b> Answer the True or False questions to check your understanding of the rules of thumb for folder organisation.
 
 <style>
 .responsive-iframe {
     position: relative;
     width: 100%;
     overflow: hidden;
-    padding-top: 58.5%; /* Adjust this value based on the aspect ratio (height/width * 100) */
+    /* padding-top: 58.5%;  */
 }
 .responsive-iframe iframe {
-    position: absolute;
+    /* position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 100%; */
+    position: relative;
+    width: 100%;
+    height: auto;
     border: 0;
 }
 .caption {
@@ -149,17 +152,17 @@ Check your understanding of <b>pitfall #1</b>:
 
 <br>
 
-#### Pitfall #2: Too mny files in one folder
+#### Pitfall #2: Too many files in one folder
 
 If you are working with files “manually” without using script or code, beware of folders getting too full. Repeated scrolling is not a good use of your time. If a single folder gets so full that you cannot easily see the files in it, consider making another folder or another sub-level of folders. This will re-organise large numbers of files into smaller, more manageable chunks so you can navigate to the file(s) you need more quickly.
 
 Please note: Full folders are not a problem for projects with folders containing data files that will be read primarily by code or scripts. In these cases, a folder might contain thousands of files. What really matters, then, is how well the files have been named and categorised.
 
-#### Pitfall #4 Overlapping or redundant folder names.
+#### Pitfall #3: Overlapping or redundant folder names.
 
 As mentioned before, it’s a good idea to create a root folder and give it the name of the specific project. Within that root folder, all sub-folders should have their own unique and recognizable names, just like you saw earlier in the video about Folder Rules of Thumb. Otherwise, it can quickly get very confusing.
 
-<style>
+<!-- <style>
   td.image-cell {
     width: 30%; /* Sets the image cell to 30% of the table width */
     vertical-align: top; /* Aligns the image to the top */
@@ -176,7 +179,7 @@ As mentioned before, it’s a good idea to create a root folder and give it the 
     height: auto; /* Maintains the aspect ratio of the image */
     display: block;
   }
-</style>
+</style> -->
 
 <table>
   <tr>
@@ -189,6 +192,8 @@ As mentioned before, it’s a good idea to create a root folder and give it the 
     </td>
   </tr>
 </table>
+
+<br>
 
 <b>Check your understanding of pitfall #3:</b>
 
@@ -207,7 +212,7 @@ Nikola Vukovic is a Neuroscientist from the University of California San Francis
 
 <center>
 <img src="../figures/3D_NVukovic_folder_structure.png" alt="NVukovic Folder Structure" style="width: 500px; height: auto;"/>
-<p style="font-size: small; text-align:left">Folder structure. From <em>"Setting up an organised folder structure for research projects"</em> by N. Vukovic, n.d. (http://nikola.me/folder_structure.html). Reprinted with permission. </p>
+<p style="font-size: small">Folder structure. From <em>"Setting up an organised folder structure for research projects"</em> by N. Vukovic, n.d. (<a href=http://nikola.me/folder_structure.html>http://nikola.me/folder_structure.html</a>). Reprinted with permission. </p>
 </center>
 
 #### How does this folder structure match Nikola's work flow?
