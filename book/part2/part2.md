@@ -4,9 +4,9 @@
 
 ### 2a. Relevance
 
-<b>Why assign naming rules to research data and files?</b>
+<b>Why assign naming rules to files and folders?</b>
 
-Consistent file naming can help you to clearly organize all the information for your projects.
+Consistent file naming can help you to clearly organise all the information for your projects.
 
 At the beginning of a project, it’s helpful to determine an FNC (File Naming Convention), or “file naming schema,” for each type of information that you will gather, create, or store to work with. An FNC is the pattern that you establish and follow for naming the files associated with a project. Without an FNC, you might end up with a mysterious list of file names that looks something like this:
 <center>
@@ -14,14 +14,14 @@ At the beginning of a project, it’s helpful to determine an FNC (File Naming C
       <p style="font-size: small;"><em>"Documents" by xkcd is licensed under CC-BY-NC.</em></p>
 </center>
 
-File naming conventions help you stay organized so you can quickly identify your files. In a shared or collaborative group file-sharing setting, it will help others more easily navigate your work.
+File naming conventions help you stay organised so you can quickly identify your files. In a shared or collaborative group file-sharing setting, it will help others more easily navigate your work.
 
 <div style="border: 2px solid orange; padding: 10px; background-color: #fff3cd; border-radius: 5px; display: flex; align-items: center; margin: 10px 0;">
   <span style="font-size: 24px; color: orange; margin-right: 10px;">⚠️</span>
-  <span style="margin-left: 5px;">It is <b>essential</b> to establish a convention <b>before</b> you begin creating files or collecting data. Having a clear FNC at the start of a project prevents a backlog of unorganized content.</span>
+  <span style="margin-left: 5px;">It is <b>essential</b> to establish a convention <b>before</b> you begin creating files or collecting data, and to adjust it as needed during the research while documenting any changes accordingly. Having a clear FNC at the start of a project prevents a backlog of unorganised content.</span>
 </div>
 
-In this module we’ll share general recommendations for file naming that apply across academic disciplines. Please note, <b>there’s no single “right” way to name your files</b>. However, also be aware that different fields of study may have their own specific conventions for naming different types of files. For example, biologists may adhere to standardized 4-letter abbreviations for species names.
+In this module we’ll share general recommendations for file naming that apply across academic disciplines. Please note, <b>there’s no single “right” way to name your files</b>. However, also be aware that different fields of study may have their own specific conventions for naming different types of files. For example, biologists may adhere to standardised 4-letter abbreviations for species names.
 
 ### 2b. Rules of Thumb for File Naming
 
