@@ -6,11 +6,11 @@
 
 This mini module is an opportunity for self-paced, independent learning in several core skills. During class, your instructors will expand upon the module topics and will show you how to apply the skills to much more complex problems in your field of study. The learning in this mini-module will equip you to do the following:
 
-- Recognize the importance of file and folder organisation and relate it to my studies.
+- Recognise the importance of file and folder organisation and relate it to your studies.
 
 - Use appropriate naming conventions to manage project files systemically.
 
-- Structure folders effectively to make elements of a research project findable for collaborators and for my future self.
+- Structure folders effectively to make elements of a research project findable for collaborators and for your future self.
 
 - Explain the concept of a directory tree. 
 
