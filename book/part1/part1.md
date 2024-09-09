@@ -25,7 +25,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 
 ### 1c. Relevance:
 
-<center><strong>Why should we care about file naming & folder organization?</strong></center><br>
+<center><strong>Why should we care about file naming & folder organisation?</strong></center><br>
 
 <style>
   table {
@@ -51,7 +51,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
     </td>
     <td>
       <h3>INSIGHTS INTO YOUR RESEARCH PROCESS</h3>
-      <p>Ideally, files are named and organized in a way that helps document the process or sequence that you followed to gather the data. File names should provide hints about why/how each piece is relevant. Effective file naming and <span style="color: pink;">documentation of file naming schema</span> makes it easier to retrace your steps in a project when it’s time to analyze your results.</p>
+      <p>Ideally, files are named and organised in a way that helps document the process or sequence that you followed to gather the data. File names should provide hints about why/how each piece is relevant. Effective file naming and documentation of file naming schema makes it easier to retrace your steps in a project when it’s time to analyse your results.</p>
     </td>
   </tr>
 </table>
