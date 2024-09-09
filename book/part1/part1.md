@@ -64,7 +64,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
     </td>
     <td>
       <h3>INCREASED EFFICIENCY</h3>
-      <p>It’s no fun hunting frantically for that one specific piece of information that you collected last month: spending a little time upfront to organize your files increases their findability. This can save you a lot of time (and lower your stress level) in the long run.</p>
+      <p>It’s no fun hunting frantically for that one specific piece of information that you collected last month: spending a little time upfront to organise your files increases their findability. This can save you a lot of time (and lower your stress level) in the long run.</p>
     </td>
   </tr>
 </table>
@@ -77,7 +77,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
     </td>
     <td>
       <h3>BETTER ORGANIZATION</h3>
-      <p>File naming and folder organization best practices will help you to be more organised in your BSc thesis research and in general: in your studies you will likely be working with larger quantities of data over longer periods of time. You may have it all in your head now, but forget major details two months from now. It’s helpful to have <b>systemic, <span style="color: pink;">well-documented</span> methods</b> for naming and organising your files now so that your future self can easily understand and locate what you did.</p>
+      <p>File naming and folder organization best practices will help you to be more organised in your BSc thesis research and in general: in your studies you will likely be working with larger quantities of data over longer periods of time. You may have it all in your head now, but forget major details two months from now. It’s helpful to have <b>systemic, well-documented methods</b> for naming and organising your files now so that your future self can easily understand and locate what you did.</p>
     </td>
   </tr>
 </table>
@@ -90,7 +90,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
     </td>
     <td>
       <h3>EFFECTIVE COLLABORATION</h3>
-      <p>Your file naming choices and folder structure should be so clear that it's possible for a collaborator or supervisor to follow the steps of your research and understand the pieces of your work. There is no single "right" way to name files and organize folders, but your system of organizing data and files needs to work for everyone involved in the work.</p>
+      <p>Your file naming choices and folder structure should help a collaborator or supervisor to follow the steps of your research and understand the pieces of your work. When working on collaborative projects, establishing a common/standard folder structure and naming conventions can facilitate collaborative work because everybody knows where to easily find the data they need for the different pieces of the project, making the collaboration more effective. There is no single "right" way to name files and organise folders, but your system of organising data and files needs to work for everyone involved in the work.</p>
     </td>
   </tr>
 </table>
@@ -103,7 +103,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
     </td>
     <td>
       <h3>REINFORCING COMPUTER SCIENCE PRINCIPLES</h3>
-      <p>The concepts in this module reinforce skills and habits of thinking that you will need for computer programming. For example, understanding folder structures can help you become a more intuitive user of a <b>command line interface</b>. It can also help you to more intentionally organize and store code and documentation for <b>collaborative projects</b>. Moreover, this mini-module will prepare you to practice better <b>version control</b> by reinforcing habits of systemic naming.</p>
+      <p>The concepts in this module reinforce skills and habits of thinking that you will need for computer programming. For example, understanding folder structures can help you become a more intuitive user of a <b>command line interface</b>. It can also help you to more intentionally organise and store code and documentation for <b>collaborative projects</b>. Moreover, this mini-module will prepare you to practice better <b>version control</b> by reinforcing habits of systemic naming.</p>
     </td>
   </tr>
 </table>
@@ -123,7 +123,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 
 ### 1d. Your turn to process!
 
-This section discussed many reasons to expand your knowledge of file naming and folder organization. The next parts of this module aim to provide tools and guidelines which will be immediately applicable to your bachelor’s coursework.
+This section discussed many reasons to expand your knowledge of file naming and folder organisation. The next parts of this module aim to provide tools and guidelines which will be immediately applicable to your bachelor’s coursework.
 
 Before proceeding, please reflect on which of the reasons discussed is most important for you and why:
 
