@@ -65,27 +65,6 @@ Watch the video to learn about how to create a basic hierarchical folder structu
 
 <center><b>VIDEO PLACEHOLDER</center></b>
 
-At the top of the hierarchy is a folder which is given the project’s name. This is called the “Root folder.” The root folder will act as a container for all the other folders in the project.
-
-*Often the root folder contains a README.txt file that gives key details about the project. The README gives meta-data or key terms that someone else would need to understand the project and folder structure. Inside the root folder, there are sub-folders:
-
-- Some research projects have non-technical elements to manage, like funding or approvals. For these types of projects, an Administration (or Management) sub-folder is useful. Sub-sub folders that live in the administration folder might include Approvals, Funding, Materials ordering, and other categories that are relevant to the specific project.
-
-- Next, a common practice among researchers is to have a sub-folder named “Data.” The Data sub-folder should contain all the raw data for a project.
-  - It is strongly recommended to always keep raw data separate from the pre-processed or cleaned data, and separated from the analysis. It’s also recommended to save any raw data in a Read Only format so it never accidentally gets written over.
-  - If there's a lot of war data, the Data sub-folder can be further divided into sub-sub-folders, as seen in this model. The sub-sub-folders should be planned intentionally to make it easier to do the planned analysis for a project. For example, in some project workflows it might be logical to create sub-sub folders that are named for each of the different variables that were tested, each of the species that were observed, each of the locations where observations were collected, etcetera. It all depends on the nature of the raw data and how you plan to analyse it.
-  - n each folder of raw data, it’s customary to include a README file that documents the file naming conventions that were used to name that set of raw data.
-
-- Next, researchers commonly include a sub-folder titled “Methods” inside the root folder. A sub-sub-folder within Methods would be Preprocessed data, which will include any data that have been cleaned or reformatted. Another sub-sub-folder would be Analysis. Then, for projects that use scripts and source code to analyse data, it’s also recommended to include a Scripts or Source code folder.
-
-- Finally, as part of basic hierarchical folder structure for a project it’s recommended to include a sub-folder called Outputs. Inside the Outputs sub-folder there are usually sub-sub-folders dedicated to aspects of publication or outreach. For example, sub-sub-folders could include written reports, graphs or visuals, scientific publications, and conference presentations if applicable.
-
-- Overall, this model follows a hierarchical structure that is organised from most general (the root folder) to more specific (the sub-sub-folders).
-
-- You may have noticed that the folder names are fairly short. However, they are also descriptive enough that you can easily tell what types of files will be saved in each folder.
-
-- Did you also notice that the folder names use underscores instead of spaces, where these green circles are? Also, they do not use any “weird” characters? Folder naming conventions are very similar to file naming conventions. As with file names, folder names must be readable for both humans and for machines. Machines often have trouble interpreting spaces and special characters, so it’s best to avoid them in file and folder naming.
-
 <b>Check your understanding:</b> Answer the True or False questions to check your understanding of the rules of thumb for folder organisation.
 
 <style>
