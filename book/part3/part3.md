@@ -4,7 +4,12 @@
 
 ### 3a. Relevance
 
-<center><b>Why does folder organisation matter to me and my collaborators?</b></center>
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    Why does folder organisation matter to me and my collaborators?
+  </div>
+</center><br>
 
 <style>
   td {
@@ -47,19 +52,29 @@
       <p style="font-size: x-small;"><em>"Desktop Harmony" by TU Delft Library - Data Analysis Team is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
   </tr>
-</table>
+</table><br>
 
 A system of sub-folders helps you organise items into more intentional and manageable categories. This will make it possible to find elements more easily and save you time in the long run, especially during big projects.
 
 Just like with file naming conventions, it’s important to **consider your folder structure in advance**. Your folders will be determined by what kinds of information you will collect and what you (and your collaborators, if applicable) eventually want to do with the data. **Your folder structure will depend on your project: there is no single right folder structure.** 
 
-**Why does folder structure matter in programming?**
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    Why does folder structure matter in programming?
+  </div>
+</center><br>
 
 Will you use code and scripts to analyse research data? Well-organised folders will give you a much more efficient way to summon and work with specific data sets. For example, you may want to use a ```for-loop``` command or a ```glob``` to summon all the data housed in a folder. These commands work best if the data has already been sorted into clearly named folders.
 
 ### 3b. Folder Rules of Thumb
 
-<center><b>What are effective systems to organise the folders for my project?</b></center>
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    What are effective systems to organise the folders for my project?
+  </div>
+</center><br>
 
 Watch the video to learn about how to create a basic hierarchical folder structure for a project.
 
@@ -206,7 +221,13 @@ Nikola Vukovic is a Neuroscientist from the University of California San Francis
 <p style="font-size: x-small">Folder structure. From <em>"Setting up an organised folder structure for research projects"</em> by N. Vukovic, n.d. (<a href=http://nikola.me/folder_structure.html>http://nikola.me/folder_structure.html</a>). Reprinted with permission. </p>
 </center>
 
-#### How does this folder structure match Nikola's work flow?
+
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    How does this folder structure match Nikola's work flow?
+  </div>
+</center><br>
 
 - When Nikola puts his folder structure into action, “ProjectFolder” would actually be given his specific project’s title.
 

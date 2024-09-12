@@ -4,17 +4,33 @@
 
 ### 4a. Relevance
 
-<b>Why Should you Care?</b>
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    Why Should you Care?
+  </div>
+</center><br>
 
 In the previous section of this module, we looked at hierarchical methods of folder organisation and how to name your files. We learned that proper file organization and naming is more than just a good habit; it's a critical skill for any student and future researcher. Knowing where your files are and being able to visualize how they are organized ensures you can quickly retrieve information, maintain data integrity, and save time when managing software or data projects, or preserving crucial papers.
 
-<b>Why does directory tree matter in programming?</b>
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    Why does directory tree matter in programming?
+  </div>
+</center><br>
 
 From a computational perspective, understanding how files are structured within a directory tree enhances your ability to navigate file systems efficiently and ensures organized, accessible, and secure data management. A directory tree is a hierarchical structure representing the organization of files and directories (also called folders) within a computer's file system, starting from a root directory and branching out into various subdirectories. The file system manages this hierarchy, organizing data into files (which hold information) and directories (or folders) that contain files or other directories.
 
 ### 4b. Directory Tree (how are the drives on a computer organised)
 
-<b>What is a Directory Tree (also known as Tree Direcctory or Directory)?</b>
+
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    What is a Directory Tree (also known as Tree Direcctory or Directory)?
+  </div>
+</center><br>
 
 Let's break down the concept of a directory tree using a simple analogy to help visualize it. Think of a directory tree as a family tree. Just as a family tree starts with a common ancestor and branches out to show different family members, a directory tree starts with a single "root" and branches out to show various directories and subdirectories, each containing files or additional directories.
 
@@ -91,7 +107,12 @@ Check your understanding of directory tree:
 
 ### 4d. Local vs. Remote access
 
-<center><b>What are distinguishing features of remove vs. local access?<br>Where are the best storage location(s) for my files?</b></center>
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    What are distinguishing features of remove vs. local access?<br>Where are the best storage location(s) for my files?
+  </div>
+</center><br>
 
 When studying or working at TU Delft, understanding the difference between remote and local access is crucial for effectively managing your files and data. Whether you’re working on a research project, collaborating on a group assignment, or simply keeping your notes organised, understanding the difference between remote and local access and how they apply at TU Delft will help you make informed decisions about where to store your files and how to access them efficiently.
 

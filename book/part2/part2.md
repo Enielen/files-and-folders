@@ -4,7 +4,13 @@
 
 ### 2a. Relevance
 
-<b>Why assign naming rules to files and folders?</b>
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    Why assign naming rules to files and folders?
+  </div>
+</center>
+<br>
 
 Consistent file naming can help you to clearly organise all the information for your projects.
 
@@ -25,7 +31,15 @@ In this module we’ll share general recommendations for file naming that apply 
 
 ### 2b. Rules of Thumb for File Naming
 
-<b>How do I develop an FNC (file naming convention) for my files?</b>
+
+<center>
+  <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
+    <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
+    How do I develop an FNC (file naming convention) for my files?
+  </div>
+</center>
+
+<br>
 
 Read the basic rules of thumb to learn more about recommended file naming practices. Afterwards, you’ll be asked to analyse several examples
 
@@ -107,7 +121,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
 <center>
 <div style="border: 2px solid #4CAF50; padding: 10px; background-color: #ccff99; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000;">
   32CharactersLooksExactlyLikeThis.ext
-</div></center>
+</div></center><br>
 
 - Try to shorten file names as much as possible by using abbreviations or acronyms (but make sure others in your field understand them)
 
