@@ -36,7 +36,7 @@
         <p>With a cluttered desktop like this, it can be difficult to see what’s where, and hard to stay organised.</p>
       </div><br>
       <img src="../figures/3Aa_desktop_chaos.png" alt="Desktop Chaos" />
-      <p style="font-size: small;"><em>"Desktop Chaos" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+      <p style="font-size: x-small;"><em>"Desktop Chaos" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
       <div class="text-container">
@@ -44,7 +44,7 @@
         <p>With an organised system of folders, it's easier to locate exactly what you need.</p>
       </div><br>
       <img src="../figures/3Ab_desktop_harmony.png" alt="Desktop Harmony" />
-      <p style="font-size: small;"><em>"Desktop Harmony" by TU Delft Library - Data Analysis Team is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+      <p style="font-size: x-small;"><em>"Desktop Harmony" by TU Delft Library - Data Analysis Team is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
   </tr>
 </table>
@@ -134,7 +134,7 @@ Here’s an example of a hierarchical folder structure that’s being used by a 
 
 <center>
 <img src="../figures/3Ca_how_many_clicks.png" alt="How Many Clicks" style="width: 400px; height: auto;"/>
-<p style="font-size: small;"><em>"How many clicks?" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</em></p>
+<p style="font-size: x-small;"><em>"How many clicks?" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</em></p>
 </center>
 
 Check your understanding of <b>pitfall #1</b>:
@@ -176,7 +176,7 @@ As mentioned before, it’s a good idea to create a root folder and give it the 
   <tr>
     <td class="image-cell2">
       <img src="../figures/3Cb_redundant_folders.png" alt="Research insights" />
-      <p style="font-size: small"><em>"Redundant Folders = Confusion" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+      <p style="font-size: x-small"><em>"Redundant Folders = Confusion" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td class="text-cell2" style="text-align:left">
       <p>Anke is doing a project about patterns of precipitation linked to cloud formations in the Netherlands. She was granted permission to re-use rainfall data and cloud radar data collected at several government weather stations in Zuid-Holland. She plans to put the raw data files for rainfall in a folder named “Data.” She will save the raw data for the cloud formations into another folder, and name that folder “data.” She pre-processes the datasets by copying and pasting some of the data into a csv file. She saves this pre-processed data in a folder named “DATA.” These folder names are problematic.</p>
@@ -203,7 +203,7 @@ Nikola Vukovic is a Neuroscientist from the University of California San Francis
 
 <center>
 <img src="../figures/3D_NVukovic_folder_structure.png" alt="NVukovic Folder Structure" style="width: 500px; height: auto;"/>
-<p style="font-size: small">Folder structure. From <em>"Setting up an organised folder structure for research projects"</em> by N. Vukovic, n.d. (<a href=http://nikola.me/folder_structure.html>http://nikola.me/folder_structure.html</a>). Reprinted with permission. </p>
+<p style="font-size: x-small">Folder structure. From <em>"Setting up an organised folder structure for research projects"</em> by N. Vukovic, n.d. (<a href=http://nikola.me/folder_structure.html>http://nikola.me/folder_structure.html</a>). Reprinted with permission. </p>
 </center>
 
 #### How does this folder structure match Nikola's work flow?

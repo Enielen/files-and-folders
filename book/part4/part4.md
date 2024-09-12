@@ -46,7 +46,7 @@ Underneath <code>/Users</code>, we find one directory for each user with an acco
 
 <center>
 <img src="../figures/4B__Graphic_2_directorytree.JPG" alt="Graphic_2" style="width: 400px; height: auto;"/>
-<p style="font-size: small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
+<p style="font-size: x-small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
 </center>
 
 

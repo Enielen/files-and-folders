@@ -11,7 +11,7 @@ Consistent file naming can help you to clearly organise all the information for 
 At the beginning of a project, it’s helpful to determine an FNC (File Naming Convention), or “file naming schema,” for each type of information that you will gather, create, or store to work with. An FNC is the pattern that you establish and follow for naming the files associated with a project. Without an FNC, you might end up with a mysterious list of file names that looks something like this:
 <center>
 <img src="../figures/2Aa_documents_cartoon.png" alt="Documents Cartoon" style="width: 200px; height: auto;"/>
-<p style="font-size: small;"><em>"Documents" by xkcd is licensed under CC-BY-NC.</em></p>
+<p style="font-size: x-small;"><em>"Documents" by xkcd is licensed under CC-BY-NC.</em></p>
 </center>
 
 File naming conventions help you stay organized so you can quickly identify your files. In a shared or collaborative group file-sharing setting, it will help others more easily navigate your work.
@@ -150,7 +150,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
   <tr>
     <td class="image-cell">
       <img src="../figures/2B_why_versioning_matters.png" alt="Why versioning Matters"/>
-      <p style="font-size: small;"><em>"Why versioning matters" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+      <p style="font-size: x-small;"><em>"Why versioning matters" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td class="text-cell">
       <p>Sometimes you may need to keep track of multiple versions or revisions of the same file.<br><br>Without a clear system for versioning, you might forget which version is which (see graphic). This could lead to unfortunate mistakes. For example, for a big class assignment you might submit "Reallyfinal.doc", when you meant to turn in "Finalfinal.doc".</p>
@@ -193,7 +193,7 @@ You just learned basic rules of thumb for developing an FNC. Now, take a few min
   <tr>
     <td class="image-cell">
       <img src="../figures/2D_README_Alice_in_WL.png" alt="Alice in WL" width="200"/>
-      <p style="font-size: small;"><em>"README Alice in Wonderland" adaped from original image by John Tenniel - John Tenniel, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=629633">https://commons.wikimedia.org/w/index.php?curid=629633</a></em></p>
+      <p style="font-size: x-small;"><em>"README Alice in Wonderland" adaped from original image by John Tenniel - John Tenniel, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=629633">https://commons.wikimedia.org/w/index.php?curid=629633</a></em></p>
     </td>
     <td class="text-cell">
       <p>To keep track of the FNCs they’ve established, researchers create a piece of documentation called a “README” file. A README is generally a txt file that gets saved into the same folder as the dataset(s) it describes. The README.txt acts like a short guide to your FNC. It helps explain and document the schema that was used to name those specific files. We plan to develop a separate mini-module about documentation strategies; it will go into more depth with step-by-step instructions about how to create README files. Would you like to learn more about README documentation in the meantime? We suggest you visit this link to <a href="https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files"> Harvard University’s research data management site</a> which offers README templates and guides.</p>
