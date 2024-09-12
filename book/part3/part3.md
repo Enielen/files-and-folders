@@ -145,7 +145,7 @@ The following video segment was created by the Ghent University data stewards. F
 </div>
 <p class="caption">Attribution: Ghent University (CC-BY)</p>
 
-Let’s elaborate on the three pitfalls mentioned in the video and demonstrate with examples.
+Let’s elaborate on the three pitfalls mentioned in the video and demonstrate with examples. {cite}`ghent2021knowledge`
 
 #### Pitfall #1: Too deep folder structure: the sub-sub-sub-sub-sub-sub-folder dilemma
 
@@ -188,7 +188,7 @@ As mentioned before, it’s a good idea to create a root folder and give it the 
   td.text-cell2 {
     width: 70%; /* Sets the text cell to 70% of the table width */
     vertical-align: top; /* Aligns the text to the top */
-    padding-left: 20px; /* Optional: Adds some spacing between image and text */
+    padding-left: 50px; /* Optional: Adds some spacing between image and text */
   }
 
 </style>

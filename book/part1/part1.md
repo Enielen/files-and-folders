@@ -38,7 +38,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 </style>
 
 <div class="responsive-iframe">
-    <iframe src="https://tudelft.h5p.com/content/XXXXXX/embed" aria-label="Pre quiz" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+    <iframe src="https://tudelft.h5p.com/content/1292336851439686927/embed" aria-label="Pre quiz" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -56,7 +56,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
   td.text-cell {
     width: 70%; /* Sets the text cell to 70% of the table width */
     vertical-align: top; /* Aligns the text to the top */
-    padding-left: 20px; /* Optional: Adds some spacing between image and text */
+    padding-left: 50px; /* Optional: Adds some spacing between image and text */
   }
 
   img {
@@ -147,7 +147,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 
 ### 1d. Your turn to process!
 
-This section discussed many reasons to expand your knowledge of file naming and folder organization. The next parts of this module aim to provide tools and guidelines which will be immediately applicable to your bachelor’s coursework.
+This section discussed many reasons to expand your knowledge of file naming and folder organization. The next parts of this module aim to provide tools and guidelines which will be immediately applicable to your bachelor’s coursework. {cite}`adk2022`
 
 Before proceeding, please reflect on which of the reasons discussed is most important for you and why:
 

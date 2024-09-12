@@ -136,7 +136,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
   td.text-cell {
     width: 70%; /* Sets the text cell to 70% of the table width */
     vertical-align: top; /* Aligns the text to the top */
-    padding-left: 20px; /* Optional: Adds some spacing between image and text */
+    padding-left: 50px; /* Optional: Adds some spacing between image and text */
   }
 
   img {
@@ -188,26 +188,6 @@ You just learned basic rules of thumb for developing an FNC. Now, take a few min
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### 2d. Practical applications: how do I keep track of the FNC I've chosen?
-
-<!-- <style>
-  td.image-cell {
-    width: 30%; /* Sets the image cell to 30% of the table width */
-    vertical-align: top; /* Aligns the image to the top */
-  }
-
-  td.text-cell {
-    width: 70%; /* Sets the text cell to 70% of the table width */
-    vertical-align: top; /* Aligns the text to the top */
-    padding-left: 20px; /* Optional: Adds some spacing between image and text */
-    padding-right: 0px;
-  }
-
-  img {
-    width: 100%; /* Ensures the image fills the 30% width of its cell */
-    height: auto; /* Maintains the aspect ratio of the image */
-    display: block;
-  }
-</style> -->
 
 <table>
   <tr>
