@@ -4,9 +4,9 @@
 
 ### 2a. Relevance
 
-<b>Why assign naming rules to research data and files?</b>
+<b>Why assign naming rules to files and folders?</b>
 
-Consistent file naming can help you to clearly organize all the information for your projects.
+Consistent file naming can help you to clearly organise all the information for your projects.
 
 At the beginning of a project, it’s helpful to determine an FNC (File Naming Convention), or “file naming schema,” for each type of information that you will gather, create, or store to work with. An FNC is the pattern that you establish and follow for naming the files associated with a project. Without an FNC, you might end up with a mysterious list of file names that looks something like this:
 <center>
@@ -14,21 +14,20 @@ At the beginning of a project, it’s helpful to determine an FNC (File Naming C
 <p style="font-size: small;"><em>"Documents" by xkcd is licensed under CC-BY-NC.</em></p>
 </center>
 
-
 File naming conventions help you stay organized so you can quickly identify your files. In a shared or collaborative group file-sharing setting, it will help others more easily navigate your work.
 
 <div style="border: 2px solid orange; padding: 10px; background-color: #fff3cd; border-radius: 5px; display: flex; align-items: center; margin: 10px 0;">
   <span style="font-size: 24px; color: orange; margin-right: 10px;">⚠️</span>
-  <span style="margin-left: 5px;">It is <b>essential</b> to establish a convention <b>before</b> you begin creating files or collecting data. Having a clear FNC at the start of a project prevents a backlog of unorganized content.</span>
+  <span style="margin-left: 5px;">It is <b>essential</b> to establish a convention <b>before</b> you begin creating files or collecting data, and to adjust it as needed during the research while documenting any changes accordingly. Having a clear FNC at the start of a project prevents a backlog of unorganised content.</span>
 </div>
 
-In this module we’ll share general recommendations for file naming that apply across academic disciplines. Please note, <b>there’s no single “right” way to name your files</b>. However, also be aware that different fields of study may have their own specific conventions for naming different types of files. For example, biologists may adhere to standardized 4-letter abbreviations for species names.
+In this module we’ll share general recommendations for file naming that apply across academic disciplines. Please note, <b>there’s no single “right” way to name your files</b>. However, also be aware that different fields of study may have their own specific conventions for naming different types of files. For example, biologists may adhere to standardised 4-letter abbreviations for species names.
 
 ### 2b. Rules of Thumb for File Naming
 
 <b>How do I develop an FNC (file naming convention) for my files?</b>
 
-Read the basic rules of thumb to learn more about recommended file naming practices. Afterwards, you’ll be asked to analyze several examples
+Read the basic rules of thumb to learn more about recommended file naming practices. Afterwards, you’ll be asked to analyse several examples
 
 #### #1 Be consistent
 - At the start of a project, choose a naming pattern for all files of the same type. Then stick with it!
@@ -40,7 +39,7 @@ Read the basic rules of thumb to learn more about recommended file naming practi
     - Type or purpose of document (e.g. data, progress report, questionnaire, interview)
     - If working collaboratively, the initials of the person who ran the test
 - "Final" is <b>NOT</b> a descriptive name
-- Use abbreviations that are commonly unterestood by collaborators.
+- Use abbreviations that are commonly unterestood by collaborators, and document these abbreviations.
 
 <b>Describing data in a series:</b>
 
@@ -103,6 +102,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 #### #3 Keep file names short
+
 - Try to limit names to 32 characters or less. Shorter names are easier to quickly scan to know what the file is. For a visual:
 <center>
 <div style="border: 2px solid #4CAF50; padding: 10px; background-color: #ccff99; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000;">
@@ -112,11 +112,12 @@ Practice applying the first two file naming rules of thumb to a research scenari
 - Try to shorten file names as much as possible by using abbreviations or acronyms (but make sure others in your field understand them)
 
 #### #4 Avoid spaces
-- Some operating systems and command line programs don’t recognize spaces in file names. Spaces can cause problems when you’re transferring files between systems.
 
+- Some operating systems and command line programs don’t recognise spaces in file names. Spaces can cause problems when you’re transferring files between systems.
 - Recommended: use underscores _ or hyphens - instead of spaces.
 
 #### #5 Avoid "weird" characters
+
 - <b>Use periods only at the end of the file name</b>, right before the *extension (*extension: the last 2-3 characters that tell you the file format)
 
 - Some characters carry meanings within a computer programming environment, so it’s better to avoid them. These characters can be confusing for machines:
@@ -126,7 +127,6 @@ Practice applying the first two file naming rules of thumb to a research scenari
 </div></center>
 
 #### #6 Versioning matters: Track versions of your work
-
 <style>
   td.image-cell {
     width: 30%; /* Sets the image cell to 30% of the table width */
