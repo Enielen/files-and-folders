@@ -4,7 +4,7 @@
 
 ### 1a. Learning Objectives & Purpose
 
-This mini module is an opportunity for self-paced, independent learning in several core skills. During class, your instructors will expand upon the module topics and will show you how to apply the skills to much more complex problems in your field of study. The learning in this mini-module will equip you to do the following:
+This mini module is an opportunity for self-paced, independent learning in several core skills. During class, your instructors will expand upon the module topics and will show you how to apply the skills to much more complex problems in your field of study. The learning in this mini-module will equip you to do the following: 
 
 - Recognise the importance of file and folder organisation and relate it to your studies.
 
