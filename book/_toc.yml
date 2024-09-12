@@ -6,6 +6,9 @@ parts:
     chapters:
     - file: part1/part1.md
     - file: part2/part2.md
+    - file: part3/part3.md
+    - file: part4/part4.md
+    - file: part5/part5.md
     # - file: some_content/overview.md
       # sections:
       # - file: some_content/text_and_code.ipynb
