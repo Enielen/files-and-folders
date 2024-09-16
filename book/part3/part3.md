@@ -76,7 +76,7 @@ Will you use code and scripts to analyse research data? Well-organised folders w
   </div>
 </center><br>
 
-Watch the video to learn about how to create a basic hierarchical folder structure for a project.
+Watch the video to learn about how to create a basic **hierarchical folder structure** for a project, in which folders are organised from most general to more specific. 
 
 <center><b>VIDEO PLACEHOLDER</center></b>
 
