@@ -108,8 +108,8 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
       <p style="font-size: x-small;"><em>"Data management helps your future self" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td class="text-cell">
-      <h3>BETTER ORGANIZATION</h3>
-      <p>File naming and folder organization best practices will help you to be more organised in your BSc thesis research and in general: in your studies you will likely be working with larger quantities of data over longer periods of time. You may have it all in your head now, but forget major details two months from now. It’s helpful to have <b>systemic, well-documented methods</b> for naming and organising your files now so that your future self can easily understand and locate what you did.</p>
+      <h3>BETTER ORGANISATION</h3>
+      <p>File naming and folder organisation best practices will help you to be more organised in your BSc thesis research and in general: in your studies you will likely be working with larger quantities of data over longer periods of time. You may have it all in your head now, but forget major details two months from now. It’s helpful to have <b>systemic, well-documented methods</b> for naming and organising your files now so that your future self can easily understand and locate what you did.</p>
     </td>
   </tr>
 </table>
@@ -155,7 +155,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 
 ### 1d. Your turn to process!
 
-This section discussed many reasons to expand your knowledge of file naming and folder organization. The next parts of this module aim to provide tools and guidelines which will be immediately applicable to your bachelor’s coursework. {cite}`adk2022`
+This section discussed many reasons to expand your knowledge of file naming and folder organisation. The next parts of this module aim to provide tools and guidelines which will be immediately applicable to your bachelor’s coursework. 
 
 Before proceeding, please reflect on which of the reasons discussed is most important for you and why:
 
