@@ -20,7 +20,7 @@ At the beginning of a project, it’s helpful to determine an FNC (File Naming C
 <p style="font-size: x-small;"><em>"Documents" by xkcd is licensed under CC-BY-NC.</em></p>
 </center>
 
-File naming conventions help you stay organized so you can quickly identify your files. In a shared or collaborative group file-sharing setting, it will help others more easily navigate your work.
+File naming conventions help you stay organised so you can quickly identify your files. In a collaborative setting that requires file-sharing, a clear FNC will help others more easily navigate your work.
 
 <div style="border: 2px solid orange; padding: 10px; background-color: #fff3cd; border-radius: 5px; display: flex; align-items: center; margin: 10px 0;">
   <span style="font-size: 24px; color: orange; margin-right: 10px;">⚠️</span>
@@ -41,7 +41,7 @@ In this module we’ll share general recommendations for file naming that apply 
 
 <br>
 
-Read the basic rules of thumb to learn more about recommended file naming practices. Afterwards, you’ll be asked to analyse several examples
+Read the basic rules of thumb to learn more about recommended file naming practices. Afterwards, you’ll be asked to analyse several examples.
 
 #### #1 Be consistent
 - At the start of a project, choose a naming pattern for all files of the same type. Then stick with it!
