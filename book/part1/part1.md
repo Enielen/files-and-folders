@@ -151,7 +151,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
   </tr>
 </table>
 
-### 1d. Process the reasons for file naming & folder organisation: 
+### 1d. Your reasons for file naming & folder organisation? 
 
 This section discussed many reasons to expand your knowledge of file naming and folder organisation. The next parts of this module aim to provide tools and guidelines which will be immediately applicable to your bachelor’s coursework. 
 

@@ -180,19 +180,19 @@ Here are standard recommendations to indicate version:
 
 You just learned basic rules of thumb for developing an FNC. Now, take a few minutes to practice applying basic file naming guidelines to three new scenarios.
 
+<b>FNC Scenario #1:<b/>
 <div class="responsive-iframe">
 <iframe src="https://tudelft.h5p.com/content/1292338726732494147/embed" aria-label="Scenario_1" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<br>
-
+<br> FNC Scenario #2:<b/>
 <div class="responsive-iframe">
 <iframe src="https://tudelft.h5p.com/content/1292338765754228157/embed" aria-label="Scenario_2" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<br>
+<br>FNC Scenario #3:<b/>
 
 <div class="responsive-iframe">
 <iframe src="https://tudelft.h5p.com/content/1292339487820332487/embed" aria-label="Scenario_3" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
