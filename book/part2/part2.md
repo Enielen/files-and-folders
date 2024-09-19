@@ -1,6 +1,6 @@
 # Part 2 - Establishing File Naming Conventions
 
-### 2a. Relevance
+### 2a. Relevance:
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -27,7 +27,7 @@ File naming conventions help you stay organised so you can quickly identify your
 
 In this module we’ll share general recommendations for file naming that apply across academic disciplines. Please note, <b>there’s no single “right” way to name your files</b>. However, also be aware that different fields of study may have their own specific conventions for naming different types of files. For example, biologists may adhere to standardised 4-letter abbreviations for species names.
 
-### 2b. Rules of Thumb for File Naming
+### 2b. Rules of Thumb for File Naming:
 
 
 <center>
@@ -53,9 +53,9 @@ Read the basic rules of thumb to learn more about recommended file naming practi
 - "Final" is <b>NOT</b> a descriptive name
 - Use abbreviations that are commonly unterestood by collaborators, and document these abbreviations.
 
-<b>Describing data in a series:</b>
+<b>Describing data in a series</b>
 
-If you are working with data in a series, file names should indicate what makes each separate piece of data unique or should indicate where each piece of data falls within the collection sequence. Otherwise, it may be more difficult to retrace your research process.
+- If you are working with data in a series, file names should indicate what makes each separate piece of data unique or should indicate where each piece of data falls within the collection sequence. Otherwise, it may be more difficult to retrace your research process.
 
 For example:
 - Run of the experiment (also called the ascension number, trial number, or recording ID). Add "leading zeros" so that all file names in a series stay the same length. This will make it easier to search for the data sequentially. To exemplify:
@@ -176,7 +176,7 @@ Here are standard recommendations to indicate version:
 - For significant changes, use whole numbers: V1, V2
 - For minor changes, use decimals: V1.1, V1.2
 
-### 2c. Your turn to process all the rules of thumb!
+### 2c. Process the rules of thumb for file naming: 
 
 You just learned basic rules of thumb for developing an FNC. Now, take a few minutes to practice applying basic file naming guidelines to three new scenarios.
 
