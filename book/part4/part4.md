@@ -16,7 +16,7 @@ In the previous section of this module, we explored how to name your files and o
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    Why does directory tree matter in programming?
+    Why does the directory tree matter in programming?
   </div>
 </center><br>
 
@@ -28,7 +28,7 @@ From a computational perspective, understanding how files are structured within 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    What is a Directory Tree (also known as Tree Direcctory or Directory)?
+    What is a Directory Tree (also known as Tree Directory or Directory)?
   </div>
 </center><br>
 
@@ -42,9 +42,9 @@ Let's break down the concept of a directory tree using a simple analogy. Imagine
 
 - <b>Leaf Nodes (End Members):</b> In a family tree, the individuals who do not have children of their own are like <b>leaf nodes</b> in a directory tree. Leaf nodes are typically files because they do not contain any further subdirectories or files. They are the endpoints of the tree, representing actual content, such as documents, images, or videos.
 
-You might wonder the difference between a directory tree and a folder structure. In summary, a directory is used by operating systems (such as Windows) to manage the entire file system organisation. While a folder structure focuses on practical organisation for a specific purpose or project. Both concepts help us manage and navigate our digital content effectively.
+You might wonder the difference between a directory tree and folder structure. In summary, a directory is used by operating systems (such as Windows) to manage the entire file system organisation. While a folder structure focuses on practical organisation for a specific purpose or project. Both concepts help us manage and navigate our digital content effectively.
 
-<b>Example</b>
+<b>Scenario:</b>
 
 To better understand what a directory tree is, let’s look at how the file system is organised on our scientist Nelle’s computer.
 
@@ -52,7 +52,7 @@ To better understand what a directory tree is, let’s look at how the file syst
 <img src="../figures/4B_Graphic_1_directorytree.JPG" alt="Graphic_1" style="width: 400px; height: auto;"/>
 </center>
 
-The filesystem resembles an upside-down tree, with the root direcotry represented by a slash character <code>/</code> on the top; this character is the leading slash in <code>/Users/nelle</code>. Inside that directory are several other directories: bin (to store built-in programs), data (for miscellaneous data files), Users (where users’ personal directories are located), tmp (for temporary files that don’t need to be stored long-term), and so on. These directories are the child nodes of /, the root node.
+The file system resembles an upside-down tree, with the root directory represented by a slash character <code>/</code> on the top; this character is the leading slash in <code>/Users/nelle</code>. Inside that directory are several other directories: bin (to store built-in programs), data (for miscellaneous data files), Users (where users’ personal directories are located), tmp (for temporary files that don’t need to be stored long-term), and so on. These directories are the child nodes of /, the root node.
 
 We know that our current working directory <code>/Users/nelle</code> is stored inside <code>/Users></code> because <code>/Users</code> is the first part of its name. Similarly, we know that <code>/Users</code> is stored inside the root directory <code>/</code> because its name begins with <code>/</code>. The subdirectories <code>/Users/nelle</code> is a child node of <code>/Users</code>, which is itself a child of <code>/</code>.
 
@@ -68,7 +68,7 @@ The subdirectory <code>/Users</code> is the parent node to <code>/Users/imhotep<
 
  
 
-### 4c. Directory Tree Processing:
+### 4c. Check your understanding of Directory Trees:
 
 Now that you have read about directory trees, it's time to check your understanding. Please answer the following multiple-choice questions to the best of your ability.
 
@@ -115,7 +115,7 @@ Now that you have read about directory trees, it's time to check your understand
 
 When studying or working at TU Delft, understanding the difference between remote and local access is essential for managing your files and data effectively. Whether you are conducting research, collaborating on a group assignment, or simply keeping your notes organised, understanding the difference between remote and local access and how they apply at TU Delft will help you make informed decisions about file storage and access.
 
-Below is a table comparing local and remote access. Read through it to learn the differences, answer the practice questions.
+Below is a table comparing local and remote access. Read through the table to learn the differences, then answer the practice questions.
 
 <style>
     table {
@@ -187,9 +187,9 @@ Below is a table comparing local and remote access. Read through it to learn the
     </tbody>
 </table>
 
-### 4e. Processing
+### 4e. Check your understanding of local vs. remote storage: 
 
-Check your understanding of local vs. remote storage by answering three follow-up questions:
+Take the quiz to check your understanding:
 
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292367276805070977/embed" aria-label="DirectoryTreeProcessing"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
