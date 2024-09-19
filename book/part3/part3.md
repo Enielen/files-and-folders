@@ -145,7 +145,7 @@ Let’s elaborate on the three pitfalls mentioned in the video and demonstrate w
 
 The video clip from the University of Ghent mentioned avoiding too many sub-folders. If getting there takes too many clicks, it may not be the most efficient way of working. The goal should be to make it easy and fast for you and your collaborators to navigate through all the folders of a project. An intentional, not-too-deep folder structure makes the components of your project more findable. For projects involving code or script, issues might also arise with trying to access a file via the command line if the folder structure is very deep.
 
-Check your understanding of <b>pitfall #1</b>:
+<b>Check your understanding of pitfall #1</b>:
 
 <br>
 

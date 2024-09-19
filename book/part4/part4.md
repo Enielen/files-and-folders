@@ -59,7 +59,7 @@ We know that our current working directory <code>/Users/nelle</code> is stored i
 Notice that there are two meanings for the <code>/</code> character. When it appears at the front of a file or directory name, it refers to the root directory. When it appears inside a path, it’s just a separator.
 
 Underneath <code>/Users</code>, we find one directory for each user with an account on Nelle’s machine, her colleagues Imhotep and Larry.
-The subdirectory <code>/Users</code> is the parent node to <code>/Users/imhotep</code>, <code>/Users/larry</code>, and <code>/Users/nelle</code>, and it is the child node of <code>/</code>, the root direcotry.
+The subdirectory <code>/Users</code> is the parent node to <code>/Users/imhotep</code>, <code>/Users/larry</code>, and <code>/Users/nelle</code>, and it is the child node of <code>/</code>, the root directory.
 <center>
 <img src="../figures/4B__Graphic_2_directorytree.JPG" alt="Graphic_2" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
