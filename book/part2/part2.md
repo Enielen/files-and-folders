@@ -1,6 +1,4 @@
-# Part 2
-
-## Establishing File Naming Conventions
+# Part 2 - Establishing File Naming Conventions
 
 ### 2a. Relevance
 

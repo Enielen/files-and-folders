@@ -1,6 +1,4 @@
-# Part I
-
-## Welcome to File Naming & Folder Organization
+# Part I - Welcome to File Naming & Folder Organization
 
 ### 1a. Learning Objectives & Purpose
 

@@ -1,6 +1,4 @@
-# Part 4
-
-## Hey... where's my file? Understanding storage structures
+# Part 4 - Hey... where's my file? Understanding storage structures
 
 ### 4a. Relevance
 

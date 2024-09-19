@@ -1,6 +1,4 @@
-# Part 3
-
-## Folder Organisation
+# Part 3 - Folder Organisation
 
 ### 3a. Relevance
 

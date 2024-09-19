@@ -1,6 +1,4 @@
-# Part 5
-
-## Conclusion
+# Part 5 - Conclusion
 
 ### 5a. Exit quiz
 
