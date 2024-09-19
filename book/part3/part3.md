@@ -145,19 +145,12 @@ Let’s elaborate on the three pitfalls mentioned in the video and demonstrate w
 
 The video clip from the University of Ghent mentioned avoiding too many sub-folders. If getting there takes too many clicks, it may not be the most efficient way of working. The goal should be to make it easy and fast for you and your collaborators to navigate through all the folders of a project. An intentional, not-too-deep folder structure makes the components of your project more findable. For projects involving code or script, issues might also arise with trying to access a file via the command line if the folder structure is very deep.
 
-Here’s an example of a hierarchical folder structure that’s being used by a group of researchers. They are conducting feasibility studies at two sites to determine the best location for a new wind park in Zeeland.
-
-<center>
-<img src="../figures/3Ca_how_many_clicks.png" alt="How Many Clicks" style="width: 400px; height: auto;"/>
-<p style="font-size: x-small;"><em>"How many clicks?" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.</em></p>
-</center>
-
 Check your understanding of <b>pitfall #1</b>:
 
 <br>
 
 <div class="responsive-iframe">
-  <iframe src="https://tudelft.h5p.com/content/1292367187191242507/embed" aria-label="pitfall_1"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+  <iframe src="https://tudelft.h5p.com/content/1292379391559093297/embed" aria-label="pitfall_1"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -184,7 +177,7 @@ As mentioned before, it’s a good idea to create a root folder and give it the 
 
 ### 3d. Process what you've learned about folder organisation!
 
-<b>Check your understanding: Scenario</b>
+<b>Scenario</b>
 
 Nikola Vukovic is a Neuroscientist from the University of California San Francisco. To stay organised during his research, he has established this hierarchical folder structure. The folder structure reflects the key elements of his research projects:
 
@@ -212,9 +205,9 @@ Nikola Vukovic is a Neuroscientist from the University of California San Francis
 
 Nikola offers further insights into his established folder structure on his website. If you are interested in learning more, you can visit: http://nikola.me/folder_structure.html
 
-<b>Processing questions:</b>
+<b>Check your understanding:</b>
 
-Based on the visual outline of Nikola's folder structure, make predictions about where you would find different types of files.
+Based on the visual outline of Nikola's folder structure, take a quiz about where you would find different types of files.
 
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292367152750218497/embed" aria-label="Nikola_processing_questions"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
