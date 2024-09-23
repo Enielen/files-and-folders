@@ -83,13 +83,14 @@ Let’s pause to process these first two rules of thumb with two file naming sce
     width: 100%;
     overflow: hidden;
     padding-top: 58.5%; /* Adjust this value based on the aspect ratio (height/width * 100) */
+    background-color: #add8e6;
 }
 .responsive-iframe iframe {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 120%;
+    height: 150%;
     border: 0;
 }
 </style>
@@ -203,13 +204,13 @@ You just learned basic rules of thumb for developing an FNC. Now, take a few min
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<br> FNC Scenario #2:<b/>
+<b> FNC Scenario #2:<b/>
 <div class="responsive-iframe">
 <iframe src="https://tudelft.h5p.com/content/1292338765754228157/embed" aria-label="Scenario_2" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<br>FNC Scenario #3:<b/>
+<b>FNC Scenario #3:<b/>
 
 <div class="responsive-iframe">
 <iframe src="https://tudelft.h5p.com/content/1292339487820332487/embed" aria-label="Scenario_3" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
