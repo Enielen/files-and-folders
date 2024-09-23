@@ -1,6 +1,6 @@
 # Part 5 - Conclusion
 
-### 5a. Exit quiz
+### 5a. Exit quiz:
 
 This module aimed to provide information, examples, and practice opportunities so that you develop the skills to...
 
@@ -47,8 +47,8 @@ Please take a brief exit quiz as a final check for understanding on these skills
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### 5b. Thank you
+### 5b. Thank you:
 
 Dear student,
 
-Thank you for participating in this pilot mini-module about Files Naming and Folder Organisation. We hope that the information proves useful in your Python course and that what you’ve learned will be relevant to your future studies/research. We need your help to improve this material for future students: please take a brief exit survey to review the module! The survey link has been posted to the _____ Brightspace course. Thank you in advance for your feedback!
+Thank you for participating in this pilot mini-module about Files Naming and Folder Organisation. We hope that the information proves useful in your Python course and that what you’ve learned will be relevant to your future studies/research. We need your help to improve this material for future students: please take a brief exit survey to review the module! The survey link will be posted to the Signal & Systems with Python Brightspace course. Thank you in advance for your feedback!
