@@ -81,6 +81,7 @@ Let’s pause to process these first two rules of thumb with two file naming sce
 .responsive-iframe {
     position: relative;
     width: 100%;
+    height: 100%;
     overflow: hidden;
     /* padding-top: 100%;  */
 }
