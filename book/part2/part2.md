@@ -82,7 +82,7 @@ Let’s pause to process these first two rules of thumb with two file naming sce
     position: relative;
     width: 100%;
     overflow: hidden;
-    padding-top: 100%; /* Adjust this value based on the aspect ratio (height/width * 100) */
+    /* padding-top: 100%;  */
 }
 .responsive-iframe iframe {
     position: absolute;
