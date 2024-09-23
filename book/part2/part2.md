@@ -76,17 +76,17 @@ For example:
 
 <b>Check your understanding:</b>
 Let’s pause to process these first two rules of thumb with two file naming scenarios.
-***
+<div style="height: 2px; background-color: blue;"></div>
 <b>Practice A:</b><br>
 A team of researchers is doing a comparative study titled “Project Vis.” It involves field observations of fish in the Netherlands at different locations and times. They establish this FNC for the datasets they'll collect in the field:
 
 <b>[Project name]_[location of data collection]_[date collected]_[initials of the researcher].file type</b>
-***
+
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292355873998431047/embed" aria-label="Practice_A" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
-
+<div style="height: 2px; background-color: blue;"></div>
 <b>Practice B:</b><br>
 Practice applying the first two file naming rules of thumb to a research scenario.
 <div class="responsive-iframe">
