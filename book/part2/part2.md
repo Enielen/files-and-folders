@@ -118,11 +118,6 @@ A team of researchers is doing a comparative study titled “Project Vis.” It 
   <iframe src="https://tudelft.h5p.com/content/1292355873998431047/embed" aria-label="Practice_A"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
-
-<div class="responsive-iframe">
-  <iframe src="https://tudelft.h5p.com/content/1292355873998431047/embed" onload="resizeIframe(this)" aria-label="Practice_A" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
-</div>
-<script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 <script>
 function resizeIframe(iframe) {
     var body = iframe.contentWindow.document.body,
@@ -131,6 +126,11 @@ function resizeIframe(iframe) {
     iframe.style.height = height + 'px'; // Adjust the height directly
 }
 </script>
+<div class="responsive-iframe">
+  <iframe src="https://tudelft.h5p.com/content/1292355873998431047/embed" onload="resizeIframe(this)" aria-label="Practice_A" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+</div>
+<script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 <br>
 
