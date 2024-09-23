@@ -7,7 +7,7 @@
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
     Why does folder organisation matter to me and my collaborators?
   </div>
-</center><br>
+</center>
 
 <style>
   td {
