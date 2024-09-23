@@ -81,16 +81,16 @@ Let’s pause to process these first two rules of thumb with two file naming sce
 .responsive-iframe {
     position: relative;
     width: 100%;
+    aspect-ratio: 16 / 9; /* Adjust this ratio based on the content's aspect ratio */
     overflow: hidden;
-    padding-top: 58.5%; /* Adjust this value based on the aspect ratio (height/width * 100) */
-    background-color: #add8e6;
 }
+
 .responsive-iframe iframe {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 150%;
+    height: 100%; /* Let the iframe fill the container */
     border: 0;
 }
 </style>
