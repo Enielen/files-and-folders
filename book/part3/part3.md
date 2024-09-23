@@ -76,7 +76,27 @@ Will you use code and scripts to analyse research data? Well-organised folders w
 
 Watch the video to learn about how to create a basic **hierarchical folder structure** for a project, in which folders are organised from most general to more specific. 
 
-<center><b>VIDEO PLACEHOLDER</center></b>
+<style>
+    .responsive-iframe-container {
+        position: relative;
+        overflow: hidden;
+        padding-top: 56.25%; /* 16:9 Aspect Ratio */
+        width: 100%;
+    }
+
+    .responsive-iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
+<div class="responsive-iframe-container">
+    <iframe src="https://www.youtube.com/embed/8RvRDitdTOA" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+</div>
+<p class="caption">Attribution: TU Delft Library Education Support & TU Delft Research Data & Software (CC-BY)</p>
 
 <b>Check your understanding:</b> Answer the True or False questions to check your understanding of the rules of thumb for folder organisation.
 
