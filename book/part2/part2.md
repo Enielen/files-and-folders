@@ -98,13 +98,14 @@ Let’s pause to process these first two rules of thumb with two file naming sce
 .responsive-iframe {
     position: relative;
     width: 100%;
-    overflow: hidden; /* This might need adjustment based on your design */
+    overflow: hidden;
 }
 .responsive-iframe iframe {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
+    height: 100%; /* Set initial height to 100% */
     border: 0;
 }
 </style>
@@ -123,7 +124,7 @@ function resizeIframe(iframe) {
     var body = iframe.contentWindow.document.body,
         html = iframe.contentWindow.document.documentElement,
         height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
-    iframe.style.height = height + 'px'; // Adjust the height directly
+    iframe.style.height = height + 'px';
 }
 </script>
 <div class="responsive-iframe">
