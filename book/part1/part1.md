@@ -23,15 +23,24 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
     position: relative;
     width: 100%;
     overflow: hidden;
-    padding-top: 58.5%; /* Adjust this value based on the aspect ratio (height/width * 100) */
+    /* padding-top: 58.5%;  */
 }
 .responsive-iframe iframe {
-    position: absolute;
+    /* position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 100%; */
+    position: relative;
+    width: 100%;
+    height: auto;
     border: 0;
+}
+.caption {
+    text-align: center; /* Center the caption text */
+    font-size: 14px; /* Adjust font size as needed */
+    margin-top: 8px; /* Space above the caption */
+    color: #555; /* Optional: adjust caption color */
 }
 </style>
 
