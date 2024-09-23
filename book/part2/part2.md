@@ -48,9 +48,9 @@ Read the basic rules of thumb to learn more about recommended file naming practi
 - An FNC should include elements or attributes that best describe the file. For example, which keywords would you and collaborators use to search for the file? Which elements make the file recognizable and distinct from other files? Because every project is different, <b>the same naming elements won't apply to every project</b>. When you develop an FNC, you must choose descriptors that are most relevant to the specific files(s) and/or project. Here are a few examples of file descriptors:
     - Project title
     - Conditions (lab instrument or set-up used, specimen tested, temperature, variable being measured, etc.)
-    - Type or purpose of document (e.g. data, progress report, questionnaire, interview)
+    - Type or purpose of document (e.g. data, progress report, questionnaire, interview).
     - If working collaboratively, the initials of the person who ran the test
-- "Final" is <b>NOT</b> a descriptive name
+- "Final" is <b>NOT</b> a descriptive name.
 - Use abbreviations that are commonly unterestood by collaborators, and document these abbreviations.
 
 <b>Describing data in a series</b>
@@ -102,7 +102,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
   32CharactersLooksExactlyLikeThis.ext
 </div></center><br>
 
-- Try to shorten file names as much as possible by using abbreviations or acronyms (but make sure others in your field understand them)
+- Try to shorten file names as much as possible by using abbreviations or acronyms (but make sure others in your field understand them).
 
 #### #4 Avoid spaces
 
@@ -111,7 +111,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
 
 #### #5 Avoid "weird" characters
 
-- <b>Use periods only at the end of the file name</b>, right before the *extension (*extension: the last 2-3 characters that tell you the file format)
+- <b>Use periods only at the end of the file name</b>, right before the *extension (*extension: the last 2-3 characters that tell you the file format).
 
 - Some characters carry meanings within a computer programming environment, so it’s better to avoid them. These characters can be confusing for machines:
 <center>
