@@ -1,6 +1,6 @@
 # Part 4 - Hey... where's my file? Understanding storage structures
 
-### 4a. Relevance
+### 4a. Relevance:
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -9,7 +9,7 @@
   </div>
 </center><br>
 
-In the previous section of this module, we explored how to name your files and organise folders. We learned that proper file naming and organisation are not just good habits; they are critical skills for any student or future researcher. Knowing where your files are and being able to visualis their organisation ensures you can quickly retrieve information, maintain data integrity, and save time when managing software or data projects, or preserving crucial documents.
+In the previous section of this module, we explored how to name your files and organise folders. We learned that proper file naming and organisation are not just good habits; they are critical skills for any student or future researcher. Knowing where your files are and being able to visualise their organisation ensures you can quickly retrieve information, maintain data integrity, and save time when managing software or data projects or preserving crucial documents.
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -20,7 +20,7 @@ In the previous section of this module, we explored how to name your files and o
 
 From a computational perspective, understanding how files are structured within a directory tree enhances your ability to navigate file systems efficiently and ensures organised, accessible, and secure data management. A directory tree is a hierarchical structure representing the organisation of files and directories (also called folders) within a computer's file system, starting from a root directory and branching out into various subdirectories. The file system manages this hierarchy, organising data into files (which hold information) and directories (or folders) that contain files or other directories.
 
-### 4b. Directory Tree (how are the drives on a computer organised)
+### 4b. Directory Tree (how are the drives on a computer organised):
 
 
 <center>
@@ -30,7 +30,7 @@ From a computational perspective, understanding how files are structured within 
   </div>
 </center><br>
 
-Let's break down the concept of a directory tree using a simple analogy. Imagine a directory tree as a family tree. Just as a family tree starts with a common ancestor and branches out to show different family members, a directory tree starts with a single "root" and branches out to show various directories and subdirectories, each containing files or additional directories.
+Let's break down the concept of a directory tree using a simple analogy: imagine a directory tree as a family tree. Just as a family tree starts with a common ancestor and branches out to show different family members, a directory tree starts with a single "root" and branches out to show various directories and subdirectories, each containing files or additional directories.
 
 - <b>The Root Node:</b> This is the top-most directory in the hierarchy, and it’s the starting point for all directories and files on your computer. Everything branches off from here. Just like the topmost ancestor (such as a grandparent), it is the starting point for the family tree. On Windows, the root directory is represented as ‘C:\’, and on Unix-based systems like macOS or Linux, it’s represented as ‘/’.
 
@@ -40,11 +40,11 @@ Let's break down the concept of a directory tree using a simple analogy. Imagine
 
 - <b>Leaf Nodes (End Members):</b> In a family tree, the individuals who do not have children of their own are like <b>leaf nodes</b> in a directory tree. Leaf nodes are typically files because they do not contain any further subdirectories or files. They are the endpoints of the tree, representing actual content, such as documents, images, or videos.
 
-You might wonder the difference between a directory tree and folder structure. In summary, a directory is used by operating systems (such as Windows) to manage the entire file system organisation. While a folder structure focuses on practical organisation for a specific purpose or project. Both concepts help us manage and navigate our digital content effectively.
+You might wonder: <b>What's the difference between a directory tree and folder structure?</b> In summary, a directory tree is used by operating systems (such as Windows) to manage the entire file system organisation. Meanwhile, a folder structure focuses on practical organisation for a specific purpose or project. Both concepts help us manage and navigate our digital content effectively.
 
 <b>Scenario:</b>
 
-To better understand what a directory tree is, let’s look at how the file system is organised on our scientist Nelle’s computer.
+To better understand what a directory tree is, let’s look at how the file system is organised on a scientist Nelle’s computer.
 
 <center>
 <img src="../figures/4B_Graphic_1_directorytree.JPG" alt="Graphic_1" style="width: 400px; height: auto;"/>
@@ -68,7 +68,7 @@ The subdirectory <code>/Users</code> is the parent node to <code>/Users/imhotep<
 
 ### 4c. Check your understanding of Directory Trees:
 
-Now that you have read about directory trees, it's time to check your understanding. Please answer the following multiple-choice questions to the best of your ability.
+Based on what you learned about directory trees, answer the following multiple-choice questions to the best of your ability.
 
 
 <style>
@@ -102,7 +102,7 @@ Now that you have read about directory trees, it's time to check your understand
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### 4d. Local vs. Remote access
+### 4d. Local vs. Remote access:
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -185,7 +185,7 @@ Below is a table comparing local and remote access. Read through the table to le
     </tbody>
 </table>
 
-### 4e. Check your understanding of local vs. remote storage: 
+### 4e. Check your understanding of local vs. remote storage 
 
 Take the quiz to check your understanding:
 

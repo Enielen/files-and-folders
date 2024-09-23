@@ -1,6 +1,6 @@
-# Part I - Welcome to File Naming & Folder Organization
+# Part I - Welcome to File Naming & Folder Organisation
 
-### 1a. Learning Objectives & Purpose
+### 1a. Learning Objectives & Purpose:
 
 This mini module is an opportunity for self-paced, independent learning in several core skills. During class, your instructors will expand upon the module topics and will show you how to apply the skills to much more complex problems in your field of study. The learning in this mini-module will equip you to do the following: 
 
@@ -14,7 +14,7 @@ This mini module is an opportunity for self-paced, independent learning in sever
 
 - Evaluate whether to store a file locally vs. remotely based on factors such as accessibility, security, and collaboration needs.
 
-### 1b. Pre-quiz
+### 1b. Pre-quiz:
 
 Before we begin, please take this short pre-quiz (5 questions). The purpose is to evaluate your background knowledge and see which concepts will be new vs. review for you.
 
@@ -151,11 +151,11 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
   </tr>
 </table>
 
-### 1d. Your turn to process!
+### 1d. Your reasons for file naming & folder organisation? 
 
 This section discussed many reasons to expand your knowledge of file naming and folder organisation. The next parts of this module aim to provide tools and guidelines which will be immediately applicable to your bachelor’s coursework. 
 
-Before proceeding, please reflect on which of the reasons discussed is most important for you and why:
+Before proceeding, please indicate which of reasons discussed is most important for you and why:
 
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292336776353802547/embed" aria-label="Quiz 1d" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
