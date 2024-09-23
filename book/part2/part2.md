@@ -81,7 +81,7 @@ Let’s pause to process these first two rules of thumb with two file naming sce
 .responsive-iframe {
     position: relative;
     width: 100%;
-    height: 100%;
+    height: 500px;
     overflow: hidden;
     /* padding-top: 100%;  */
 }
@@ -100,17 +100,25 @@ A team of researchers is doing a comparative study titled “Project Vis.” It 
 
 <b>[Project name]_[location of data collection]_[date collected]_[initials of the researcher].file type</b>
 
+<script>
+function resizeIframe(iframe) {
+    var body = iframe.contentWindow.document.body,
+        html = iframe.contentWindow.document.documentElement,
+        height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+    iframe.style.height = height + 'px';
+}
+</script>
 <div class="responsive-iframe">
-  <iframe src="https://tudelft.h5p.com/content/1292355873998431047/embed" aria-label="Practice_A"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+  <iframe src="https://tudelft.h5p.com/content/1292355873998431047/embed" onload="resizeIframe(this)" aria-label="Practice_A" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
-<script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<!-- <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
 
 <b>Practice B:</b><br>
 Practice applying the first two file naming rules of thumb to a research scenario.
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292336852411897787/embed" aria-label="Practice_B"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
-<script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
+<!-- <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script> -->
 
 #### #3 Keep file names short
 
