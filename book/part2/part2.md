@@ -81,16 +81,15 @@ Let’s pause to process these first two rules of thumb with two file naming sce
 .responsive-iframe {
     position: relative;
     width: 100%;
-    aspect-ratio: 16 / 9; /* Adjust this ratio based on the content's aspect ratio */
     overflow: hidden;
+    padding-top: 58.5%; /* Adjust this value based on the aspect ratio (height/width * 100) */
 }
-
 .responsive-iframe iframe {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%; /* Let the iframe fill the container */
+    height: 100%;
     border: 0;
 }
 </style>
@@ -106,23 +105,6 @@ A team of researchers is doing a comparative study titled “Project Vis.” It 
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <br>
-
-<style>
-.responsive-iframe {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    padding-top: 58.5%; /* Adjust this value based on the aspect ratio (height/width * 100) */
-}
-.responsive-iframe iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-}
-</style>
 
 <b>Practice B:</b><br>
 Practice applying the first two file naming rules of thumb to a research scenario.
