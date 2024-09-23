@@ -125,6 +125,7 @@ Below is a table comparing local and remote access. Read through the table to le
         border: 1px solid #dddddd;
         padding: 8px;
         text-align: left;
+        vertical-align: top;
     }
     th {
         background-color: #f2f2f2;
