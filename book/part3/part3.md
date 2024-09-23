@@ -39,7 +39,7 @@
         <p>With a cluttered desktop like this, it can be difficult to see what’s where, and hard to stay organised.</p>
       </div><br>
       <img src="../figures/3Aa_desktop_chaos.png" alt="Desktop Chaos" />
-      <p style="font-size: x-small;"><em>"Desktop Chaos" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+      <p style="font-size: x-small; width: 70%; margin: 0 auto;"><em>"Desktop Chaos" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
       <div class="text-container">
@@ -47,7 +47,7 @@
         <p>With an organised system of folders, it's easier to locate exactly what you need.</p>
       </div><br>
       <img src="../figures/3Ab_desktop_harmony.png" alt="Desktop Harmony" />
-      <p style="font-size: x-small;"><em>"Desktop Harmony" by TU Delft Library - Data Analysis Team is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
+      <p style="font-size: x-small; width: 70%; margin: 0 auto;"><em>"Desktop Harmony" by TU Delft Library - Data Analysis Team is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
   </tr>
 </table><br>
