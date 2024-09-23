@@ -133,7 +133,7 @@ The following video segment was created by the Ghent University data stewards. F
 </style>
 
 <div class="responsive-iframe-container">
-    <iframe src="https://www.youtube.com/watch?v=hnnE2v7ReOw" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
+    <iframe src="https://www.youtube.com/embed/hnnE2v7ReOw" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 </div>
 <p class="caption">Attribution: Ghent University (CC-BY)</p>
 
