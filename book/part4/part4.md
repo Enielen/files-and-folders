@@ -50,7 +50,7 @@ To better understand what a directory tree is, let’s look at how the file syst
 <img src="../figures/4B_Graphic_1_directorytree.JPG" alt="Graphic_1" style="width: 400px; height: auto;"/>
 </center>
 
-The file system resembles an upside-down tree, with the root directory represented by a slash character ```/``` on the top; this character is the leading slash in ```/Users/nelle```. Inside that directory are several other directories: bin (to store built-in programs), data (for miscellaneous data files), Users (where users’ personal directories are located), tmp (for temporary files that don’t need to be stored long-term), and so on. These directories are the child nodes of /, the root node.
+The file system resembles an upside-down tree, with the root directory represented by a slash character ```/``` on the top; this character is the leading slash in ```/Users/nelle```. Inside that directory are several other directories: bin (to store built-in programs), data (for miscellaneous data files), Users (where users’ personal directories are located), tmp (for temporary files that don’t need to be stored long-term), and so on. These directories are the child nodes of ```/```, the root node.
 
 We know that our current working directory ```/Users/nelle``` is stored inside ```/Users>``` because ```/Users``` is the first part of its name. Similarly, we know that ```/Users``` is stored inside the root directory ```/``` because its name begins with ```/```. The subdirectories ```/Users/nelle``` is a child node of ```/Users```, which is itself a child of ```/```.
 
