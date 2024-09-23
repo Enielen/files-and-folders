@@ -50,14 +50,14 @@ To better understand what a directory tree is, let’s look at how the file syst
 <img src="../figures/4B_Graphic_1_directorytree.JPG" alt="Graphic_1" style="width: 400px; height: auto;"/>
 </center>
 
-The file system resembles an upside-down tree, with the root directory represented by a slash character <code>/</code> on the top; this character is the leading slash in <code>/Users/nelle</code>. Inside that directory are several other directories: bin (to store built-in programs), data (for miscellaneous data files), Users (where users’ personal directories are located), tmp (for temporary files that don’t need to be stored long-term), and so on. These directories are the child nodes of /, the root node.
+The file system resembles an upside-down tree, with the root directory represented by a slash character ```/``` on the top; this character is the leading slash in ```/Users/nelle```. Inside that directory are several other directories: bin (to store built-in programs), data (for miscellaneous data files), Users (where users’ personal directories are located), tmp (for temporary files that don’t need to be stored long-term), and so on. These directories are the child nodes of /, the root node.
 
-We know that our current working directory <code>/Users/nelle</code> is stored inside <code>/Users></code> because <code>/Users</code> is the first part of its name. Similarly, we know that <code>/Users</code> is stored inside the root directory <code>/</code> because its name begins with <code>/</code>. The subdirectories <code>/Users/nelle</code> is a child node of <code>/Users</code>, which is itself a child of <code>/</code>.
+We know that our current working directory ```/Users/nelle``` is stored inside ```/Users>``` because ```/Users``` is the first part of its name. Similarly, we know that ```/Users``` is stored inside the root directory ```/``` because its name begins with ```/```. The subdirectories ```/Users/nelle``` is a child node of ```/Users```, which is itself a child of ```/```.
 
-Notice that there are two meanings for the <code>/</code> character. When it appears at the front of a file or directory name, it refers to the root directory. When it appears inside a path, it’s just a separator.
+Notice that there are two meanings for the ```/``` character. When it appears at the front of a file or directory name, it refers to the root directory. When it appears inside a path, it’s just a separator.
 
-Underneath <code>/Users</code>, we find one directory for each user with an account on Nelle’s machine, her colleagues Imhotep and Larry.
-The subdirectory <code>/Users</code> is the parent node to <code>/Users/imhotep</code>, <code>/Users/larry</code>, and <code>/Users/nelle</code>, and it is the child node of <code>/</code>, the root directory.
+Underneath ```/Users```, we find one directory for each user with an account on Nelle’s machine, her colleagues Imhotep and Larry.
+The subdirectory ```/Users``` is the parent node to ```/Users/imhotep```, ```/Users/larry```, and ```/Users/nelle```, and it is the child node of ```/```, the root directory.
 <center>
 <img src="../figures/4B__Graphic_2_directorytree.JPG" alt="Graphic_2" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
