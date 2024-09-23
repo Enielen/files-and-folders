@@ -72,7 +72,7 @@ For example:
     0488<br>
     1356
 
-- The date the file was created or the date the data were collected. GEnerally recommended format for dates is: <b>YYYMMDD</b>.
+- The date the file was created or the date the data were collected. Generally recommended format for dates is: <b>YYYMMDD</b>.
 
 <b>Check your understanding:</b>
 Let’s pause to process these first two rules of thumb with two file naming scenarios.
