@@ -137,7 +137,7 @@ The following video segment was created by the Ghent University data stewards. W
 </div>
 <p class="caption">Attribution: Ghent University (CC-BY)</p>
 
-Let’s elaborate on the three pitfalls mentioned in the video and demonstrate with examples. {cite}`ghent2021knowledge`
+Let’s elaborate on the three pitfalls mentioned in the video and demonstrate with examples.
 
 #### Pitfall #1: Too deep folder structure: the sub-sub-sub-sub-sub-sub-folder dilemma
 

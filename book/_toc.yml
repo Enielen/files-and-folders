@@ -9,7 +9,4 @@ parts:
     - file: part3/part3.md
     - file: part4/part4.md
     - file: part5/part5.md
-    # - file: some_content/overview.md
-      # sections:
-      # - file: some_content/text_and_code.ipynb
     - file: references.md
