@@ -65,7 +65,7 @@ For example:
     066<br>
     488
 
-    - In an experiment involving 200 trials, the data will be numbered like this:
+    - In an experiment involving 2000 trials, the data will be numbered like this:
     0001<br>
     0015<br>
     0066<br>
@@ -156,6 +156,8 @@ Such a confusion can be remedied by including version information in the file na
 Here are standard recommendations to indicate version:
 - For significant changes, use whole numbers: V1, V2
 - For minor changes, use decimals: V1.1, V1.2
+
+Please note: Storage systems such as One Drive or version control systems like git hub actually have versioning build in. If you're working in these systems it’s actually NOT advisable to use numbered versions in file names.
 
 ### 2c. Process the rules of thumb for file naming: 
 
