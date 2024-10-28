@@ -1,5 +1,5 @@
 format: jb-book
-root: intro.md
+root: intro_translated_dutch.md
 
 parts:
   - caption: Contents

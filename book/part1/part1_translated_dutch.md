@@ -7,7 +7,7 @@ Deze mini-module is een kans om zelfgestuurd en onafhankelijk een aantal kernvaa
 
 - Het belang van bestands- en mappenorganisatie the herkennen en dit aan jouw studie relateren.
 
-- Geschikte naamgevingsconventies te gebruiken om projectbestanden systematisch te beheren.
+- Geschikte naamgevingsconventies gebruiken om projectbestanden systematisch te beheren.
 
 - Mappen effectief structureren om elementen van een onderzoeksproject vindbaar te maken voor medewerkers en voor jezelf in de toekomst.
 
@@ -139,7 +139,7 @@ Voordat we beginnen, doe deze korte quiz (5 vragen). Het doel is om jouw huidige
       <p style="font-size: x-small;"><em>"Building blocks of computer programming" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td class="text-cell">
-      <h3>BEGINSELEN VAN COMPUTERWETENSCHAPPEN VERSTERKEN</h3>
+      <h3>PRINCIPES VAN COMPUTERWETENSCHAPPEN VERSTERKEN</h3>
       <p>De concepten in deze module versterken vaardigheden en denkgewoonten die je nodig zult hebben voor computerprogrammering. Het begrijpen van mapstructuren kan je bijvoorbeeld helpen om een meer intuïtieve gebruiker van een <b>opdrachtregelinterface</b> te worden. Het kan je ook helpen om code en documentatie voor <b>samenwerkingsprojecten</b> intentionaler te organiseren en op te slaan. Bovendien zal deze mini-module je voorbereiden om beter <b>versiebeheer</b> te oefenen door gewoonten van systematische naamgeving te versterken.</p>
     </td>
   </tr>
