@@ -1,4 +1,4 @@
-# Part I - Welcome to File Naming & Folder Organisation
+# Part 1 - Welcome to File Naming & Folder Organisation
 
 ### 1a. Learning Objectives & Purpose:
 
