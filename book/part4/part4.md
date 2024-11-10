@@ -71,7 +71,7 @@ The subdirectory ```/Users``` is the parent node to ```/Users/imhotep```, ```/Us
 Based on what you learned about directory trees, answer the following multiple-choice questions to the best of your ability.
 
 
-<style>
+<!-- <style>
 .responsive-iframe {
     position: relative;
     width: 100%;
@@ -95,7 +95,7 @@ Based on what you learned about directory trees, answer the following multiple-c
     margin-top: 8px; /* Space above the caption */
     color: #555; /* Optional: adjust caption color */
 }
-</style>
+</style> -->
 
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292367933376792477/embed" aria-label="DirectoryTreeProcessing"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>

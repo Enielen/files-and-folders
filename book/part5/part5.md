@@ -16,7 +16,7 @@ This module aimed to provide information, examples, and practice opportunities s
 
 Please take a brief exit quiz as a final check for understanding on these skills and concepts.
 
-<style>
+<!-- <style>
 .responsive-iframe {
     position: relative;
     width: 100%;
@@ -40,7 +40,7 @@ Please take a brief exit quiz as a final check for understanding on these skills
     margin-top: 8px; /* Space above the caption */
     color: #555; /* Optional: adjust caption color */
 }
-</style>
+</style> -->
 
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292375888974755657/embed" aria-label="ExitQuiz"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>

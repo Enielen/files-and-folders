@@ -100,7 +100,7 @@ Watch the video to learn about how to create a basic **hierarchical folder struc
 
 <b>Check your understanding:</b> Answer the True or False questions to check your understanding of the rules of thumb for folder organisation.
 
-<style>
+<!-- <style>
 .responsive-iframe {
     position: relative;
     width: 100%;
@@ -124,7 +124,7 @@ Watch the video to learn about how to create a basic **hierarchical folder struc
     margin-top: 8px; /* Space above the caption */
     color: #555; /* Optional: adjust caption color */
 }
-</style>
+</style> -->
 
 <div class="responsive-iframe">
   <iframe src="https://tudelft.h5p.com/content/1292363764289864897/embed" aria-label="Part3b"  allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
