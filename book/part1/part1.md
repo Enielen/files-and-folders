@@ -18,7 +18,7 @@ This mini module is an opportunity for self-paced, independent learning in sever
 
 Before we begin, please take this short pre-quiz (5 questions). The purpose is to evaluate your background knowledge and see which concepts will be new vs. review for you.
 
-<style>
+<!-- <style>
 .responsive-iframe {
     position: relative;
     width: 100%;
@@ -42,7 +42,7 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
     margin-top: 8px; /* Space above the caption */
     color: #555; /* Optional: adjust caption color */
 }
-</style>
+</style> -->
 
 <div class="responsive-iframe">
     <iframe src="https://tudelft.h5p.com/content/1292336851439686927/embed" aria-label="Pre quiz" allowfullscreen="allowfullscreen" allow="autoplay *; geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
