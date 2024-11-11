@@ -1,12 +1,12 @@
 format: jb-book
-root: intro_dutch.md
+root: intro.md
 
 parts:
   - caption: Contents
     chapters:
-    - file: part1/part1_dutch.md
-    - file: part2/part2_dutch.md
-    - file: part3/part3_dutch.md
+    - file: part1/part1.md
+    - file: part2/part2.md
+    - file: part3/part3.md
     - file: part4/part4.md
     - file: part5/part5.md
     - file: references.md
