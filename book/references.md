@@ -1,4 +1,4 @@
-# References
+# Referenties
 
 Devenyi, G., Capes, E., Morris, C., Pitchers, W., Wilson, G., Koch, C., Silva, R., Srinath, A., & Chhatre, V. (2019, July). swcarpentry/shell-novice: Software Carpentry: the UNIX shell, June 2019 (Version v2019.06.1). Zenodo. [http://doi.org/10.5281/zenodo.3266823](http://doi.org/10.5281/zenodo.3266823)
 
