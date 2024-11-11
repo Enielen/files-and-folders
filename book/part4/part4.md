@@ -20,8 +20,7 @@ In the previous section of this module, we explored how to name your files and o
 
 From a computational perspective, understanding how files are structured within a directory tree enhances your ability to navigate file systems efficiently and ensures organised, accessible, and secure data management. A directory tree is a hierarchical structure representing the organisation of files and directories (also called folders) within a computer's file system, starting from a root directory and branching out into various subdirectories. The file system manages this hierarchy, organising data into files (which hold information) and directories (or folders) that contain files or other directories.
 
-### 4b. Directory Tree (how are the drives on a computer organised):
-
+## 4b. Directory Tree (how are the drives on a computer organised):
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -57,16 +56,14 @@ We know that our current working directory ```/Users/nelle``` is stored inside `
 Notice that there are two meanings for the ```/``` character. When it appears at the front of a file or directory name, it refers to the root directory. When it appears inside a path, it’s just a separator.
 
 Underneath ```/Users```, we find one directory for each user with an account on Nelle’s machine, her colleagues Imhotep and Larry.
+
 The subdirectory ```/Users``` is the parent node to ```/Users/imhotep```, ```/Users/larry```, and ```/Users/nelle```, and it is the child node of ```/```, the root directory.
 <center>
 <img src="../figures/4B__Graphic_2_directorytree.JPG" alt="Graphic_2" style="width: 400px; height: auto;"/>
 <p style="font-size: x-small;"><em>“The Unix Shell: Navigating Files and Directories” by Software Carpentry is licensed under CC BY 4.0 <a href=https://swcarpentry.github.io/shell-novice/02-filedir.html>https://swcarpentry.github.io/shell-novice/02-filedir.html</a></em></p>
 </center>
 
-
- 
-
-### 4c. Check your understanding of Directory Trees:
+## 4c. Check your understanding of Directory Trees:
 
 Based on what you learned about directory trees, answer the following multiple-choice questions to the best of your ability.
 
@@ -107,7 +104,7 @@ Based on what you learned about directory trees, answer the following multiple-c
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    What are distinguishing features of remove vs. local access?<br>Where are the best storage location(s) for my files?
+    What are distinguishing features of remote vs. local access?<br>Where are the best storage location(s) for my files?
   </div>
 </center><br>
 
@@ -167,7 +164,7 @@ Below is a table comparing local and remote access. Read through the table to le
             <td class="remote"><strong>Flexibility:</strong> You can access your files from anywhere on any device, if you have an internet connection.</td>
         </tr>
         <tr>
-            <td class="local"><strong>Offline Availability:</strong> You can access your files even when there is no internet connection</td>
+            <td class="local"><strong>Offline Availability:</strong> You can access your files even when there is no internet connection.</td>
             <td class="remote"><strong>Backup and Security:</strong> Files stored on the cloud service OneDrive are automatically backed up by the ICT department at TU Delft and are protected against data loss.</td>
         </tr>
         <tr>
@@ -176,7 +173,7 @@ Below is a table comparing local and remote access. Read through the table to le
             <td class="remote"><strong>Internet Dependency:</strong> You need an active internet connection to access your files remotely. When working with large data sets, unreliable internet connections can be a significant limitation. For instance, if you plan to work on the train and need to create a growth for a presentation, degraded internet data subscriber bottlenecks, and slow connections can be substantial impediments.</td>
         </tr>
         <tr>
-            <td class="local"><strong>Risk of Data Loss:</strong> If disaster strikes and your device fails or gets lost or stolen, you could lose your data unless you have an external or online backup</td>
+            <td class="local"><strong>Risk of Data Loss:</strong> If disaster strikes and your device fails or gets lost or stolen, you could lose your data unless you have an external or online backup.</td>
             <td class="remote"><strong>Speed:</strong> Accessing large files remotely may be slower than accessing them locally, depending on your internet speed.</td>
         </tr>
         <tr>
@@ -186,7 +183,7 @@ Below is a table comparing local and remote access. Read through the table to le
     </tbody>
 </table>
 
-### 4e. Check your understanding of local vs. remote storage 
+## 4e. Check your understanding of local vs. remote storage 
 
 Take the quiz to check your understanding:
 
