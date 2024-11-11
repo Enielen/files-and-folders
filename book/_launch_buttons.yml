@@ -1,0 +1,8 @@
+buttons:
+  - type: dropdown
+    label: languages
+    items:
+      - label: NL
+        url: https://teachbooks.github.io/files-and-folders/NL
+      - label: EN
+        url: https://teachbooks.github.io/files-and-folders/EN
