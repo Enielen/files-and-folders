@@ -145,7 +145,7 @@ Hieronder staat een tabel waarin lokale en "remote" toegang worden vergeleken. L
         <tr>
             <td><strong>Definition</strong></td>
             <td class="local">Lokale toegang verwijst naar toegang tot bestanden en gegevens die rechtstreeks op je persoonlijke apparaat zijn opgeslagen (bijvoorbeeld je laptop, desktop of een computer van de universiteit). Deze gegevens zijn alleen toegankelijk als je fysieke toegang hebt tot dat apparaat.</td>
-            <td class=“remote”>Remote access verwijst naar toegang tot bestanden en gegevens die zijn opgeslagen op externe servers, zoals cloudopslag of universitaire netwerk drives. Deze gegevens zijn toegankelijk vanaf elk apparaat met een internetverbinding.</td>
+            <td class="remote">Remote access verwijst naar toegang tot bestanden en gegevens die zijn opgeslagen op externe servers, zoals cloudopslag of universitaire netwerk drives. Deze gegevens zijn toegankelijk vanaf elk apparaat met een internetverbinding.</td>
         </tr>
         <tr>
             <td rowspan="2"><strong>Voorbeelden</strong></td>
