@@ -6,5 +6,5 @@ buttons:
     items:
       - label: English
         url: https://teachbooks.github.io/files-and-folders/EN
-      - label: Dutch
+      - label: Nederlands
         url: https://teachbooks.github.io/files-and-folders/NL
