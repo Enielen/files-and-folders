@@ -1,6 +1,6 @@
 # Part 5 - Conclusion
 
-### 5a. Exit quiz:
+## 5a. Exit quiz:
 
 This module aimed to provide information, examples, and practice opportunities so that you develop the skills to...
 
@@ -47,7 +47,7 @@ Please take a brief exit quiz as a final check for understanding on these skills
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### 5b. Thank you:
+## 5b. Thank you:
 
 Dear student,
 

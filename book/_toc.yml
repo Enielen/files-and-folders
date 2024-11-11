@@ -7,6 +7,6 @@ parts:
     - file: part1/part1_dutch.md
     - file: part2/part2_dutch.md
     - file: part3/part3_dutch.md
-    - file: part4/part4.md
-    - file: part5/part5.md
+    - file: part4/part4_dutch.md
+    - file: part5/part5_dutch.md
     - file: references.md
