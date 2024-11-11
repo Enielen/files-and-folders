@@ -61,7 +61,6 @@ Before we begin, please take this short pre-quiz (5 questions). The purpose is t
 
 <br>
 
-
 <style>
   td.image-cell {
     width: 30%; /* Sets the image cell to 30% of the table width */
