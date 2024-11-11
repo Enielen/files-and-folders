@@ -1,6 +1,6 @@
 # Part 2 - Establishing File Naming Conventions
 
-### 2a. Relevance:
+## 2a. Relevance:
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -27,8 +27,7 @@ File naming conventions help you stay organised so you can quickly identify your
 
 In this module we’ll share general recommendations for file naming that apply across academic disciplines. Please note, <b>there’s no single “right” way to name your files</b>. However, also be aware that different fields of study may have their own specific conventions for naming different types of files. For example, biologists may adhere to standardised 4-letter abbreviations for species names.
 
-### 2b. Rules of Thumb for File Naming:
-
+## 2b. Rules of Thumb for File Naming:
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -41,10 +40,10 @@ In this module we’ll share general recommendations for file naming that apply 
 
 Read the basic rules of thumb to learn more about recommended file naming practices. Afterwards, you’ll be asked to analyse several examples.
 
-#### #1 Be consistent
+### #1 Be consistent
 - At the start of a project, choose a naming pattern for all files of the same type. Then stick with it!
 
-#### #2 Be descriptive
+### #2 Be descriptive
 - An FNC should include elements or attributes that best describe the file. For example, which keywords would you and collaborators use to search for the file? Which elements make the file recognizable and distinct from other files? Because every project is different, <b>the same naming elements won't apply to every project</b>. When you develop an FNC, you must choose descriptors that are most relevant to the specific files(s) and/or project. Here are a few examples of file descriptors:
     - Project title
     - Conditions (lab instrument or set-up used, specimen tested, temperature, variable being measured, etc.)
@@ -72,7 +71,7 @@ For example:
     0488<br>
     1356
 
-- The date the file was created or the date the data were collected. Generally recommended format for dates is: <b>YYYMMDD</b>.
+- The date the file was created or the date the data were collected. Generally recommended format for dates is: <b>YYYYMMDD</b>.
 
 <b>Check your understanding:</b>
 Let’s pause to process these first two rules of thumb with two file naming scenarios.
@@ -94,7 +93,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-#### #3 Keep file names short
+### #3 Keep file names short
 
 - Try to limit names to 32 characters or less. Shorter names are easier to quickly scan to know what the file is. For a visual:
 <center>
@@ -104,12 +103,12 @@ Practice applying the first two file naming rules of thumb to a research scenari
 
 - Try to shorten file names as much as possible by using abbreviations or acronyms (but make sure others in your field understand them).
 
-#### #4 Avoid spaces
+### #4 Avoid spaces
 
 - Some operating systems and command line programs don’t recognise spaces in file names. Spaces can cause problems when you’re transferring files between systems.
 - Recommended: use underscores _ or hyphens - instead of spaces.
 
-#### #5 Avoid "weird" characters
+### #5 Avoid "weird" characters
 
 - <b>Use periods only at the end of the file name</b>, right before the *extension (*extension: the last 2-3 characters that tell you the file format).
 
@@ -119,7 +118,7 @@ Practice applying the first two file naming rules of thumb to a research scenari
   .&, *%#;()!@$^~'{}[]?<>
 </div></center>
 
-#### #6 Versioning matters: Track versions of your work
+### #6 Versioning matters: Track versions of your work
 <style>
   td.image-cell {
     width: 30%; /* Sets the image cell to 30% of the table width */
@@ -157,9 +156,9 @@ Here are standard recommendations to indicate version:
 - For significant changes, use whole numbers: V1, V2
 - For minor changes, use decimals: V1.1, V1.2
 
-Please note: Storage systems such as One Drive or version control systems like git hub actually have versioning build in. If you're working in these systems it’s actually NOT advisable to use numbered versions in file names.
+Please note: Storage systems such as One Drive or version control systems like GitHub actually have versioning build in. If you're working in these systems it’s actually NOT advisable to use numbered versions in file names.
 
-### 2c. Process the rules of thumb for file naming: 
+## 2c. Process the rules of thumb for file naming: 
 
 You just learned basic rules of thumb for developing an FNC. Now, take a few minutes to practice applying basic file naming guidelines to three new scenarios.
 
@@ -182,7 +181,7 @@ You just learned basic rules of thumb for developing an FNC. Now, take a few min
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### 2d. Practical applications: how do I keep track of the FNC I've chosen?
+## 2d. Practical applications: how do I keep track of the FNC I've chosen?
 
 <table>
   <tr>
