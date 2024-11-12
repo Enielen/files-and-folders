@@ -23,7 +23,7 @@ Conventies voor bestandsnamen helpen je om georganiseerd te blijven zodat je je 
 
 <div style="border: 2px solid orange; padding: 10px; background-color: #fff3cd; border-radius: 5px; display: flex; align-items: center; margin: 10px 0;">
   <span style="font-size: 24px; color: orange; margin-right: 10px;">⚠️</span>
-  <span style="margin-left: 5px;">Het is <b>noodzakelijk</b> om een conventie op te stellen <b>voordat</b> je begint met het maken van bestanden of het verzamelen van gegevens, en om deze conventie tijdens het onderzoek zo nodig aan te passen en eventuele wijzigingen dienovereenkomstig te documenteren. Het hebben van een duidelijke FNC aan het begin van een project voorkomt een achterstand van ongeorganiseerde inhoud.</span>
+  <span style="margin-left: 5px;">Het is <b>noodzakelijk</b> om een conventie op te stellen <b>voordat</b> je begint met het maken van bestanden of het verzamelen van gegevens, en om deze conventie tijdens het onderzoek zo nodig aan te passen en eventuele wijzigingen te documenteren. Het hebben van een duidelijke FNC aan het begin van een project voorkomt een achterstand van ongeorganiseerde inhoud.</span>
 </div>
 
 In deze module geven we algemene aanbevelingen voor het benoemen van bestanden die van toepassing zijn op alle academische disciplines. Let op: <b>er is niet één juiste manier om je bestanden een naam te geven</b>. Wees je ook van bewust dat verschillende studierichtingen hun eigen specifieke conventies kunnen hebben voor het benoemen van verschillende typen bestanden. Biologen houden zich bijvoorbeeld aan gestandaardiseerde afkortingen van 4 letters voor soortnamen.
