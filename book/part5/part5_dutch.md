@@ -2,13 +2,13 @@
 
 ## 5a. Exit quiz:
 
-Deze module is bedoeld om informatie, voorbeelden en oefenmogelijkheden te bieden, zodat je de vaardigheden ontwikkelt om...
+Deze module is bedoeld om informatie, voorbeelden en oefenmogelijkheden te bieden, zodat je de vaardigheden ontwikkelt om:
 
-- Het belang te onderkennen van het organiseren van bestanden en mappen en dit te relateren aan je studie.
+- Het belang te erkennen van het organiseren van bestanden en mappen en dit te relateren aan je studie.
 
 - De juiste naamgevingsconventies te gebruiken om projectbestanden systematisch te beheren.
 
-- Mappen effectief te structureren om elementen van een onderzoeksproject vindbaar te maken voor medewerkers en voor jezelf.
+- Mappen effectief te structureren om elementen van een onderzoeksproject vindbaar te maken voor groepsgenoten en voor jezelf.
 
 - Het concept van een mappenstructuur uitleggen.
 
