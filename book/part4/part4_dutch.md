@@ -9,7 +9,7 @@
   </div>
 </center><br>
 
-In het vorige deel van deze module hebben we onderzocht hoe je bestanden benoemt en mappen organiseert. We hebben geleerd dat het goed benoemen en organiseren van bestanden niet alleen goede gewoontes zijn; het zijn cruciale vaardigheden voor elke student of toekomstig onderzoeker. Weten waar je bestanden zijn en de organisatie ervan kunnen visualiseren zorgt ervoor dat je informatie snel kunt terugvinden, de integriteit van gegevens kunt behouden en tijd kunt besparen bij het beheren van software- of gegevensprojecten of het bewaren van cruciale documenten.
+In het vorige deel van deze module hebben we onderzocht hoe je bestanden naamgeeft en mappen organiseert. We hebben geleerd dat het goed benoemen en organiseren van bestanden niet alleen goede gewoontes zijn, het zijn cruciale vaardigheden voor elke student of toekomstig onderzoeker. Weten waar je bestanden zijn en de organisatie ervan kunnen visualiseren zorgt ervoor dat je informatie snel kunt terugvinden, de integriteit van gegevens kunt behouden en tijd kunt besparen bij het beheren van software, gegevensprojecten of het bewaren van cruciale documenten.
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
@@ -31,15 +31,15 @@ Vanuit een computationeel perspectief, vergroot inzicht in hoe bestanden zijn ge
 
 Laten we het concept van een mappenstructuur eens uitwerken aan de hand van een eenvoudige analogie: stel je een mappenstructuur voor als een stamboom. Net zoals een stamboom begint met een gemeenschappelijke voorouder en zich vertakt om verschillende familieleden te tonen, begint een mappenstructuur met een enkele “root” en vertakt zich om verschillende mappen en submappen te tonen, die elk bestanden of extra mappen bevatten.
 
-- <b>Het hoofdknooppunt:</b> Dit is de bovenste map in de hiërarchie en het is het startpunt voor alle mappen en bestanden op je computer. Alles vertakt zich vanaf hier. Net als de bovenste voorouder (zoals een grootouder) is dit het beginpunt van de stamboom. Op Windows wordt de hoofdmap weergegeven als 'C:\' en op Unix-systemen zoals macOS of Linux als '/'.
+- <b>Het hoofdknooppunt:</b> Dit is de bovenste map in de hiërarchie en het is het startpunt voor alle mappen en bestanden op je computer. Alles vertakt zich vanaf hier. Net als de oudste voorouder (zoals een grootouder) is dit het beginpunt van de stamboom. Op Windows wordt de hoofdmap weergegeven als 'C:\' en op Unix-systemen zoals macOS of Linux als '/'.
 
-- <b>Pouderknooppunten:</b> Vanaf de root in een stamboom heb je familieleden (ouders) die direct verbonden zijn met de voorouder en hun eigen kinderen hebben. Op dezelfde manier, in een mappenboom, vertegenwoordigen <b>ouderknooppunten</b> mappen die andere mappen of bestanden bevatten.
+- <b>ouderknooppunten:</b> Vanaf de root in een stamboom heb je familieleden (ouders) die direct verbonden zijn met de voorouder en hun eigen kinderen hebben. Op dezelfde manier, in een mappenboom, vertegenwoordigen <b>ouderknooppunten</b> mappen die andere mappen of bestanden bevatten.
 
 - <b>Kindknooppunten:</b> In een stamboom vertakken kinderen zich van hun ouders. Op dezelfde manier zijn <b>kindknooppunten</b> in een mapstructuur mappen of bestanden binnen een bovenliggende map. Een kinderknooppunt kan een subdirectory of een bestand zijn. En dus kunnen kinderknooppunten, die submappen zijn, zelf ouderknooppunten worden van andere bestanden en mappen eronder in de boom. 
 
 - <b>Bladknopen (Eindleden):</b> In een stamboom zijn de individuen die zelf geen kinderen hebben als <b>bladknopen</b> in een mappenboom. Bladknooppunten zijn meestal bestanden omdat ze geen verdere submappen of bestanden bevatten. Zij zijn de eindpunten van de boom en vertegenwoordigen de eigenlijke inhoud, zoals documenten, afbeeldingen of video's.
 
-Je vraagt je misschien af: <b>Wat is het verschil tussen een "directory tree" en een mappenstructuur?</b> Samengevat wordt een "directory tree" gebruikt door besturingssystemen (zoals Windows) om de hele organisatie van het bestandssysteem te beheren. Een mappenstructuur is gericht op praktische organisatie voor een specifiek doel of project. Beide concepten helpen ons onze digitale inhoud effectief te beheren en erdoor te navigeren.
+Je vraagt je misschien af: <b>Wat is het verschil tussen een "directory tree" en een mappenstructuur?</b> Samengevat wordt een "directory tree" gebruikt door besturingssystemen (zoals Windows) om de hele organisatie van het bestandssysteem te beheren. Een mappenstructuur is gericht op praktische organisatie voor een specifiek doel of project. Beide concepten helpen ons onze digitale inhoud efficiënt te beheren en erdoor te navigeren.
 
 <b>Scenario:</b>
 
@@ -102,7 +102,7 @@ Beantwoord de volgende meerkeuzevragen zo goed mogelijk op basis van wat je hebt
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    Wat zijn de onderscheidende kenmerken van "remote" vs. lokale toegang?<br>Waar kan ik mijn bestanden het beste opslaan?
+    Wat zijn de onderscheidende kenmerken van "remote" vs. lokale opslag?<br>Waar kan ik mijn bestanden het beste opslaan?
   </div>
 </center><br>
 
@@ -166,16 +166,16 @@ Hieronder staat een tabel waarin lokale en "remote" toegang worden vergeleken. L
             <td class="remote"><strong>Back-up en beveiliging:</strong> Bestanden die zijn opgeslagen op de clouddienst OneDrive worden automatisch geback-upt door de ICT-afdeling van de TU Delft en zijn beschermd tegen gegevensverlies.</td>
         </tr>
         <tr>
-            <td rowspan="3"><strong>Uitdagingeb</strong></td>
+            <td rowspan="3"><strong>Uitdagingen</strong></td>
             <td class="local"><strong>Beperkt door apparaat:</strong> Je gegevens zijn alleen beschikbaar op het specifieke apparaat waar ze zijn opgeslagen.</td>
-            <td class="remote"><strong>Internetafhankelijkheid:</strong> Je hebt een actieve internetverbinding nodig om op afstand toegang te krijgen tot je bestanden. Wanneer je met grote gegevenssets werkt, kunnen onbetrouwbare internetverbindingen een aanzienlijke beperking vormen. Als je bijvoorbeeld van plan bent om in de trein te werken en je moet een groei maken voor een presentatie, dan kunnen verminderde internet data abonnee knelpunten en trage verbindingen aanzienlijke belemmeringen vormen.</td>
+            <td class="remote"><strong>Internetafhankelijkheid:</strong> Je hebt een actieve internetverbinding nodig om op afstand toegang te krijgen tot je bestanden. Wanneer je met grote gegevenssets werkt, kunnen onbetrouwbare internetverbindingen een aanzienlijke beperking vormen. Als je bijvoorbeeld van plan bent om in de trein te werken en je moet een presentatie maken, dan kunnen plekken zonder bereik en trage verbindingen aanzienlijke belemmeringen vormen.</td>
         </tr>
         <tr>
-            <td class="local"><strong>Risico op gegevensverlies:</strong> Als het noodlot toeslaat en je apparaat defect raakt of verloren of gestolen wordt, kun je je gegevens kwijtraken tenzij je een externe of online back-up hebt.</td>
+            <td class="local"><strong>Risico op gegevensverlies:</strong> Als het noodlot toeslaat en je apparaat defect raakt, je hem kwijtraakt of hij gestolen wordt, kun je je gegevens kwijtraken tenzij je een externe of online back-up hebt.</td>
             <td class="remote"><strong>Snelheid:</strong> Grote bestanden op afstand openen kan langzamer zijn dan lokaal, afhankelijk van je internetsnelheid.</td>
         </tr>
         <tr>
-            <td class="local"><strong>Op de hoogte blijven in samenwerkingsprojecten:</strong> Als je aan een samenwerkingsproject werkt, betekent offline zijn dat je de laatste updates en wijzigingen van je team mist.</td>
+            <td class="local"><strong>Op de hoogte blijven in samenwerkingsprojecten:</strong> Als je aan een samenwerkingsproject werkt, betekent offline zijn dat je de nieuwste updates en wijzigingen van je team mist.</td>
             <td class="remote"></td>
         </tr>
     </tbody>
