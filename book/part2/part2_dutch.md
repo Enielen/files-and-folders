@@ -5,14 +5,14 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    Waarom naamgevingsregels toewijzen aan bestanden en mappen?
+    Waarom naamgevingsregels gebruiken voor bestanden en mappen?
   </div>
 </center>
 <br>
 
-Een consistente bestandsnaamgeving kan je helpen om alle informatie voor je projecten duidelijk te organiseren.
+Een consistente bestandsnaamgeving kan je helpen om alle informatie van je projecten duidelijk te organiseren.
 
-Aan het begin van een project is het handig om een FNC (File Naming Convention) of “schema voor bestandsnaamgeving” te bepalen voor elk type informatie dat je gaat verzamelen, creëren of opslaan om mee te werken. Een FNC is het patroon dat je vaststelt en volgt voor het benoemen van de bestanden die bij een project horen. Zonder een FNC zou je kunnen eindigen met een mysterieuze lijst van bestandsnamen die er ongeveer zo uitziet:
+Aan het begin van een project is het handig om een FNC (File Naming Convention) of “schema voor bestandsnaamgeving” te bepalen voor elk type informatie dat je gaat verzamelen, creëren of opslaan om mee te werken. Een FNC is het patroon dat je bepaalt en volgt voor het benoemen van de bestanden die bij een project horen. Zonder een FNC zou je kunnen eindigen met een mysterieuze lijst van bestandsnamen die er ongeveer zo uitziet:
 
 <center>
 <img src="../figures/2Aa_documents_cartoon.png" alt="Documents Cartoon" style="width: 200px; height: auto;"/>
@@ -23,10 +23,10 @@ Conventies voor bestandsnamen helpen je om georganiseerd te blijven zodat je je 
 
 <div style="border: 2px solid orange; padding: 10px; background-color: #fff3cd; border-radius: 5px; display: flex; align-items: center; margin: 10px 0;">
   <span style="font-size: 24px; color: orange; margin-right: 10px;">⚠️</span>
-  <span style="margin-left: 5px;">Het is <b>noodzakelijk</b> om een conventie op te stellen <b>voordat</b> je begint met het maken van bestanden of het verzamelen van gegevens, en om deze conventie tijdens het onderzoek zo nodig aan te passen en eventuele wijzigingen dienovereenkomstig te documenteren. Het hebben van een duidelijke FNC aan het begin van een project voorkomt een achterstand van ongeorganiseerde inhoud.</span>
+  <span style="margin-left: 5px;">Het is <b>noodzakelijk</b> om een conventie op te stellen <b>voordat</b> je begint met het maken van bestanden of het verzamelen van gegevens en om deze conventie tijdens het onderzoek zo nodig aan te passen en eventuele wijzigingen te documenteren. Het hebben van een duidelijke FNC aan het begin van een project voorkomt een achterstand van ongeorganiseerde inhoud.</span>
 </div>
 
-In deze module geven we algemene aanbevelingen voor het benoemen van bestanden die van toepassing zijn op alle academische disciplines. Let op: <b>er is niet één juiste manier om je bestanden een naam te geven</b>. Wees je ook van bewust dat verschillende studierichtingen hun eigen specifieke conventies kunnen hebben voor het benoemen van verschillende typen bestanden. Biologen houden zich bijvoorbeeld aan gestandaardiseerde afkortingen van 4 letters voor soortnamen.
+In deze module geven we algemene aanbevelingen voor het benoemen van bestanden die van toepassing zijn op alle academische disciplines. Let op: <b>er is niet één juiste manier om je bestanden een naam te geven</b>. Wees je er ook van bewust dat verschillende studierichtingen hun eigen specifieke conventies kunnen hebben voor het benoemen van verschillende type bestanden. Biologen houden zich bijvoorbeeld aan gestandaardiseerde afkortingen van 4 letters voor soortnamen.
 
 ## 2b. Vuistregels voor bestandsnamen:
 
@@ -45,18 +45,18 @@ Lees de basisvuistregels om meer te leren over aanbevolen bestandsnamen. Daarna 
 - Kies aan het begin van een project een naamgevingspatroon voor alle bestanden van hetzelfde type. Houd je er dan aan!
 
 ### #2 Wees beschrijvend
-- Een FNC moet elementen of attributen bevatten die het bestand het beste beschrijven. Welke trefwoorden zouden jij en medewerkers bijvoorbeeld gebruiken om naar het bestand te zoeken? Welke elementen maken het bestand herkenbaar en verschillend van andere bestanden? Omdat elk project anders is, zullen <b>niet voor elk project dezelfde naamgevingselementen gelden</b>. Wanneer je een FNC ontwikkelt, moet je descriptoren kiezen die het meest relevant zijn voor de specifieke bestanden en/of het project. Hier zijn een paar voorbeelden van bestandsbeschrijvingen:
+- Een FNC moet elementen of attributen bevatten die het bestand het beste beschrijven. Welke trefwoorden zouden jij en medewerkers bijvoorbeeld gebruiken om naar het bestand te zoeken? Welke elementen maken het bestand herkenbaar en verschillend van andere bestanden? Omdat elk project anders is, zullen <b>niet voor elk project dezelfde naamgevingsregels gelden</b>. Wanneer je een FNC ontwikkelt, moet je bestandsbeschrijvingen kiezen die het meest relevant zijn voor de specifieke bestanden en/of het project. Hier zijn een paar voorbeelden van bestandsbeschrijvingen:
     - Titel project
-    - Omstandigheden (gebruikt labinstrument of opstelling, getest specimen, temperatuur, variabele die gemeten werd, enz.)
-    - Type of doel van het document (bijv. gegevens, voortgangsrapport, vragenlijst, interview).
+    - Omstandigheden (gebruikt labinstrument, opstelling, getest specimen, temperatuur, variabele die gemeten werd, enz.)
+    - Type of doel van het document (bijv. gegevens, voortgangsrapport, vragenlijst of interview).
     - Bij samenwerking, de initialen van de persoon die de test heeft uitgevoerd.
-- “Finaal” is <b>NIET</b> een beschrijvende naam.
-- Gebruik afkortingen die vaak niet gebruikt worden door medewerkers en documenteer deze afkortingen.
+- “Final” is <b>NIET</b> een beschrijvende naam.
+- Gebruik afkortingen die niet vaak gebruikt worden door anderen en documenteer deze afkortingen.
 
 <b>Gegevens beschrijven in een reeks</b>
 
 - Als je met gegevens in een reeks werkt, moeten de bestandsnamen aangeven wat elk apart stuk gegevens uniek maakt of moeten ze aangeven waar elk stuk gegevens binnen de verzamelreeks valt. 
-Anders kan het moeilijker zijn om je onderzoeksproces te herleiden.
+Anders kan het moeilijk zijn om je onderzoeksproces te herleiden.
 
 Bijvoorbeeld:
 - Run van het experiment (ook wel stijgnummer, proefnummer of opname-ID genoemd). Voeg “voorloopnullen” toe zodat alle bestandsnamen in een serie even lang zijn. Dit maakt het makkelijker om sequentieel naar de gegevens te zoeken. Een voorbeeld:
@@ -75,10 +75,10 @@ Bijvoorbeeld:
 - De datum waarop het bestand is gemaakt of de datum waarop de gegevens zijn verzameld. Het algemeen aanbevolen formaat voor data is: <b>JJJJMMDD</b>.
 
 <b>Controleer of je het begrijpt:</b>
-Laten we even pauzeren om deze eerste twee vuistregels te verwerken met twee scenario's voor bestandsnamen.
+Laten we even pauzeren om deze eerste twee vuistregels te verwerken met twee scenario's.
 <div style="height: 2px; background-color: blue;"></div>
 <b>Oefening A:</b><br>
-Een team onderzoekers is bezig met een vergelijkende studie getiteld “Project Vis”. Het gaat om veldwaarnemingen van vissen in Nederland op verschillende locaties en tijdstippen. Ze stellen deze FNC op voor de datasets die ze in het veld verzamelen:
+Een team onderzoekers is bezig met een vergelijkende studie getiteld “Project Vis”. Het gaat om waarnemingen van vissen in Nederland op verschillende locaties en tijdstippen. Ze stellen deze FNC op voor de datasets die ze in het veld verzamelen:
 
 <b>[Projectnaam]_[locatie van gegevensverzameling]_[datum verzameld]_[initialen van de onderzoeker].bestandstype</b>
 
@@ -97,18 +97,18 @@ Oefen met het toepassen van de eerste twee vuistregels voor bestandsnamen op een
 
 ### #3 Houd bestandsnamen kort
 
-- Probeer namen te beperken tot 32 tekens of minder. Kortere namen zijn gemakkelijker snel te scannen om te weten wat het bestand is. Een visueel voorbeeld:
+- Probeer namen te beperken tot 32 tekens of minder. Korte namen zijn sneller te scannen om te weten te komen wat het bestand inhoud. Een visueel voorbeeld:
 <center>
 <div style="border: 2px solid #4CAF50; padding: 10px; background-color: #ccff99; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000;">
   32CharactersLooksExactlyLikeThis.ext
 </div></center><br>
 
-- Probeer bestandsnamen zoveel mogelijk in te korten door afkortingen of acroniemen te gebruiken (maar zorg ervoor dat anderen in jouw vakgebied ze begrijpen).
+- Probeer bestandsnamen zoveel mogelijk in te korten door afkortingen of acroniemen te gebruiken (maar zorg ervoor dat andere in jouw vakgebied ze begrijpen).
 
 ### #4 Vermijd spaties
 
 - Sommige besturingssystemen en opdrachtregelprogramma's herkennen geen spaties in bestandsnamen. Spaties kunnen problemen veroorzaken bij het overzetten van bestanden tussen systemen.
-- Aanbevolen: gebruik underscores _ of koppeltekens - in plaats van spaties.
+- Aanrader: gebruik underscores _ of koppeltekens - in plaats van spaties.
 
 ### #5 Vermijd “rare” karakters
 
@@ -116,14 +116,14 @@ Oefen met het toepassen van de eerste twee vuistregels voor bestandsnamen op een
 
 - Sommige tekens hebben een betekenis binnen een computerprogrammeeromgeving, dus het is beter om ze te vermijden. 
 
-Deze tekens kunnen verwarrend zijn voor machines:
+De volgende tekens kunnen verwarrend zijn voor computers:
 
 <center>
 <div style="border: 2px solid red; padding: 10px; background-color: #fff; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000;">
   .&, *%#;()!@$^~'{}[]?<>
 </div></center>
 
-### #6 Versiebeheer is belangrijk: Houd versies van je werk bij
+### #6 Versiebeheer is belangrijk: Houd de versie van je werk bij
 
 <style>
   td.image-cell {
@@ -156,9 +156,9 @@ Deze tekens kunnen verwarrend zijn voor machines:
   </tr>
 </table>
 
-Deze verwarring kan verholpen worden door versie-informatie op te nemen in de bestandsnaam. Dit zal jou en medewerkers helpen om de evolutie van een document in de tijd duidelijker te volgen.
+Deze verwarring kan verholpen worden door versie-informatie op te nemen in de bestandsnaam. Dit zal jou en groepsgenoten helpen om de tijdsevolutie van een document te kunnen volgen.
 
-Hier zijn standaardaanbevelingen om versie aan te geven:
+Hier zijn standaardaanbevelingen om de versie aan te geven:
 - Gebruik voor significante wijzigingen hele getallen: V1, V2
 - Gebruik voor kleine wijzigingen decimalen: V1.1, V1.2
 
@@ -166,7 +166,7 @@ Let op: Opslagsystemen zoals One Drive of versiebeheersystemen zoals GitHub hebb
 
 ## 2c. Verwerk de vuistregels voor bestandsnaamgeving: 
 
-Je hebt net de basisvuistregels geleerd voor het ontwikkelen van een FNC. Neem nu een paar minuten de tijd om de basisrichtlijnen voor bestandsnamen toe te passen op drie nieuwe scenario's.
+Je hebt net de basisvuistregels geleerd voor het ontwikkelen van een FNC. Neem nu een paar minuten de tijd om de basisrichtlijnen voor bestandsnamen toe te passen op deze drie nieuwe scenario's.
 
 <b>FNC Scenario #1:</b>
 <div class="responsive-iframe">
@@ -196,7 +196,7 @@ Je hebt net de basisvuistregels geleerd voor het ontwikkelen van een FNC. Neem n
       <p style="font-size: x-small;"><em>"README Alice in Wonderland" adaped from original image by John Tenniel - John Tenniel, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=629633">https://commons.wikimedia.org/w/index.php?curid=629633</a></em></p>
     </td>
     <td class="text-cell">
-      <p>Om bij te houden welke FNC's ze hebben vastgesteld, maken onderzoekers een stuk documentatie aan dat een “README”-bestand wordt genoemd. Een README is meestal een txt-bestand dat wordt opgeslagen in dezelfde map als de dataset(s) die het beschrijft. De README.txt fungeert als een korte gids voor je FNC. Het helpt bij het uitleggen en documenteren van het schema dat is gebruikt om die specifieke bestanden een naam te geven. We zijn van plan om een aparte mini-module te ontwikkelen over documentatiestrategieën; deze zal dieper ingaan op stap-voor-stap instructies over het maken van README-bestanden. Wil je in de tussentijd meer leren over README-documentatie? We raden je aan deze link te bezoeken naar <a href="https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files"> Harvard University’s research data management site</a>  die README sjablonen en gidsen biedt.</p>
+      <p>Om bij te houden welke FNC's ze hebben vastgesteld, maken onderzoekers een stuk documentatie aan dat een “README”-bestand wordt genoemd. Een README is meestal een txt-bestand dat wordt opgeslagen in dezelfde map als de dataset(s). De README.txt fungeert als een korte gids voor je FNC. Het helpt bij het uitleggen en documenteren van het schema dat is gebruikt om die specifieke bestanden een naam te geven. We zijn van plan om een aparte mini-module te ontwikkelen over documentatiestrategieën; deze zal dieper ingaan op stap-voor-stap instructies over het maken van README-bestanden. Wil je in de tussentijd meer leren over README-documentatie? We raden je aan deze link te bezoeken naar <a href="https://datamanagement.hms.harvard.edu/collect-analyze/documentation-metadata/readme-files"> Harvard University’s research data management site</a>  die README sjablonen en gidsen biedt.</p>
     </td>
   </tr>
 </table>
