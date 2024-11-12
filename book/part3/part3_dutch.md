@@ -4,7 +4,7 @@
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    Waarom is de organisatie van mappen belangrijk voor mij en mijn medewerkers?
+    Waarom is de organisatie van mappen belangrijk voor mij en mijn groepsgenoten?
   </div>
 </center>
 
@@ -34,15 +34,15 @@
   <tr>
     <td>
       <div class="text-container">
-        <h3><b>VOORAF:</b></h3>
-        <p>Met zo'n rommelig desktop kan het moeilijk zijn om te zien wat waar staat en om georganiseerd te blijven.</p>
+        <h3><b>VOOR:</b></h3>
+        <p>Met zo'n rommelig desktop kan het moeilijk zijn om te vinden wat waar staat en om georganiseerd te blijven.</p>
       </div><br>
       <img src="../figures/3Aa_desktop_chaos.png" alt="Desktop Chaos" />
       <p style="font-size: x-small; width: 70%; margin: 0 auto;"><em>"Desktop Chaos" by TU Delft Library - Education Support is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></em></p>
     </td>
     <td>
       <div class="text-container">
-        <h3><b>ERNA:</b></h3>
+        <h3><b>NA:</b></h3>
         <p>Met een georganiseerd systeem van mappen is het gemakkelijker om precies te vinden wat je nodig hebt.</p>
       </div><br>
       <img src="../figures/3Ab_desktop_harmony.png" alt="Desktop Harmony" />
@@ -51,14 +51,14 @@
   </tr>
 </table><br>
 
-Een systeem van submappen helpt je om items te organiseren in meer doelgerichte en beheersbare categorieën. Hierdoor kun je elementen gemakkelijker terugvinden en op de lange termijn tijd besparen, vooral tijdens grote projecten.
+Een systeem van submappen helpt je om items te organiseren in meer doelgerichte en beheersbare categorieën. Hierdoor kun je elementen makkelijker terugvinden en op de lange termijn tijd besparen, vooral tijdens grote projecten.
 
-Net als bij bestandsnaamconventies is het belangrijk om **van tevoren na te denken over je mappenstructuur**. Je mappen worden bepaald door het soort informatie dat je gaat verzamelen en wat jij (en je eventuele medewerkers) uiteindelijk met de gegevens wilt doen. **Je mappenstructuur hangt af van je project: er is niet één juiste mappenstructuur.** 
+Net als bij bestandsnaamconventies is het belangrijk om **van tevoren na te denken over je mappenstructuur**. Je mappen worden bepaald door het soort informatie dat je gaat verzamelen en wat jij (en je eventuele groepsgenoten) uiteindelijk met de gegevens willen doen. **Je mappenstructuur hangt af van je project: er is niet één juiste mappenstructuur.** 
 
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    Waarom is mappenstructuur belangrijk bij het programmeren?
+    Waarom is de mappenstructuur belangrijk bij programmeren?
   </div>
 </center><br>
 
@@ -69,11 +69,11 @@ Gebruik je code en scripts om onderzoeksgegevens te analyseren? Goed georganisee
 <center>
   <div style="padding: 10px; background-color: #00BBC8; border-radius: 10px; display: inline-block; font-weight: bold; font-size: 16px; color: #000; position: relative;">
     <span style="background-color: white; color: #00BBC8; border-radius: 50%; padding: 5px 10px; font-size: 15px; font-weight: bold; margin-right: 8px; display: inline-block;">?</span>
-    Wat zijn effectieve systemen om de mappen voor mijn project te organiseren?
+    Wat zijn effectieve systemen om de mappen van mijn project te organiseren?
   </div>
 </center><br>
 
-Bekijk de video om te leren hoe je een basis **hiërarchische mappenstructuur** maakt voor een project, waarin mappen worden georganiseerd van meest algemeen naar meer specifiek. 
+Bekijk de video om te leren hoe je een basis **hiërarchische mappenstructuur** maakt voor een project, waarin mappen worden gesorteerd van meest algemeen naar meer specifiek. 
 
 <style>
     .responsive-iframe-container {
@@ -98,7 +98,7 @@ Bekijk de video om te leren hoe je een basis **hiërarchische mappenstructuur** 
 
 <p class="caption">Attribution: TU Delft Library Education Support & TU Delft Research Data & Software (CC-BY)</p>
 
-<b>Controleer je begrip:</b> Beantwoord de waar of onwaar vragen om te controleren of je de vuistregels voor het organiseren van mappen begrijpt.
+<b>Controleer je kennis:</b> Beantwoord de waar of onwaar vragen om te controleren of je de vuistregels voor het organiseren van mappen begrijpt.
 
 <style>
 .responsive-iframe {
@@ -131,9 +131,9 @@ Bekijk de video om te leren hoe je een basis **hiërarchische mappenstructuur** 
 </div>
 <script src="https://tudelft.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## 3c. Veelvoorkomende valkuilen in mappen:
+## 3c. Veelvoorkomende valkuilen in mappenorganisatie:
 
-De volgende video werd gemaakt door de data stewards van de Universiteit Gent. Bekijk de video om de best practices voor het organiseren van mappen te bekijken en leer over drie grote valkuilen die je moet vermijden bij het organiseren en benoemen van mappen.
+De volgende video is gemaakt door de data stewards van de Universiteit Gent. Bekijk de video om de best werkwijzes voor het organiseren van mappen te leren en leer over de drie grote valkuilen die je moet vermijden bij het organiseren en naamgeven van mappen.
 
 <style>
     .responsive-iframe-container {
@@ -157,11 +157,11 @@ De volgende video werd gemaakt door de data stewards van de Universiteit Gent. B
 </div>
 <p class="caption">Attribution: Ghent University (CC-BY)</p>
 
-Laten we dieper ingaan op de drie valkuilen die in de video worden genoemd en ze met voorbeelden demonstreren.
+Laten we dieper ingaan op de drie valkuilen die in de video worden genoemd en ze demonsteren met gebruik van voorbeelden.
 
 ### Valkuil #1: Te diepe mappenstructuur: het sub-sub-sub-sub-sub-map dilemma
 
-In de videoclip van de Universiteit van Gent werd vermeld dat te veel submappen moeten worden vermeden. Als het te veel klikken kost om er te komen, is het misschien niet de meest efficiënte manier van werken. Het doel moet zijn om het voor jou en je medewerkers makkelijk en snel te maken om door alle mappen van een project te navigeren. Een bewuste, niet te diepe mappenstructuur maakt de onderdelen van je project beter vindbaar. Voor projecten met code of script kunnen er ook problemen ontstaan als je een bestand probeert te openen via de opdrachtregel als de mappenstructuur erg diep is.
+In de videoclip van de Universiteit van Gent werd vermeld dat te veel submappen moeten worden vermeden. Als het te veel klikken kost om er te komen, is het misschien niet de meest efficiënte manier van werken. Het doel moet zijn om het voor jou en je groepsgenoten zo makkelijk mogelijk en snel mogelijk te maken om door alle mappen van een project te kunnen navigeren. Een bewuste, niet te diepe mappenstructuur maakt de verschillende onderdelen van je project beter vindbaar. Voor projecten met code of scripts kunnen er ook problemen ontstaan als je een bestand probeert te openen via de command line als de mappenstructuur erg diep is.
 
 <b>Controleer of je valkuil #1 begrijpt</b>:
 
@@ -176,9 +176,9 @@ In de videoclip van de Universiteit van Gent werd vermeld dat te veel submappen 
 
 ### Valkuil #2: Te veel bestanden in één map
 
-Als je “handmatig” met bestanden werkt zonder script of code te gebruiken, pas dan op dat je mappen niet te vol worden. Herhaaldelijk scrollen is geen goed gebruik van je tijd. Als een map zo vol raakt dat je de bestanden erin niet meer goed kunt zien, overweeg dan om een andere map of een ander subniveau van mappen te maken. Dit zal grote aantallen bestanden reorganiseren in kleinere, beter hanteerbare stukken zodat je sneller naar het bestand of de bestanden kunt navigeren die je nodig hebt.
+Als je “handmatig” met bestanden werkt zonder scripts of code te gebruiken, pas dan op dat je mappen niet te vol worden. Herhaaldelijk scrollen is geen goed gebruik van je tijd. Als een map zo vol raakt dat je de bestanden erin niet meer goed kunt zien, overweeg dan om een andere map of een ander subniveau van mappen te maken. Dit zal grote aantallen bestanden reorganiseren in kleinere, beter hanteerbare stukken zodat je sneller naar het bestand of de bestanden kunt navigeren die je nodig hebt.
 
-Let op: Volle mappen zijn geen probleem voor projecten met mappen die gegevensbestanden bevatten die voornamelijk door code of scripts worden gelezen. In deze gevallen kan een map duizenden bestanden bevatten. Waar het dan echt om gaat, is hoe goed de bestanden zijn benoemd en gecategoriseerd.
+Let op: Volle mappen zijn geen probleem voor projecten met mappen die gegevensbestanden bevatten die voornamelijk door code of scripts worden gelezen. In deze gevallen kan een map duizenden bestanden bevatten. Waar het dan echt om gaat, is hoe goed de bestanden genoemd en gecategoriseerd zijn.
 
 ### Valkuil #3: Overlappende of overbodige mapnamen.
 
@@ -211,14 +211,14 @@ Nikola Vukovic is neurowetenschapper aan de Universiteit van Californië San Fra
   </div>
 </center><br>
 
-- Wanneer Nikola zijn mappenstructuur gebruikt, krijgt “ProjectFolder” de titel van zijn specifieke project.
+- Wanneer Nikola zijn mappenstructuur maakt, krijgt “ProjectFolder” de titel van zijn project.
 
 - Nikola vraagt en ontvangt meestal subsidies om zijn onderzoeksprojecten uit te voeren, dus neemt hij graag een submap Projectbeheer op.
   - Hij gebruikt een submap voor Proposals waar hij zijn projectplan en de vereisten voor de subsidieaanvraag opslaat.
   - Financiën krijgt ook zijn eigen submap omdat Nikola voor de meeste projecten de financiering en uitgaven moet bijhouden.
 
 - Omdat zijn onderzoek veel te maken heeft met menselijke proefpersonen, maakt Nikola er een gewoonte van om een submap te wijden aan Ethisch bestuur.
-  - Daarbinnen heeft hij een submap voor ethiekformulieren en een andere voor goedkeuringen.
+  - Daarin heeft hij een submap voor ethiekformulieren en een andere voor goedkeuringen.
 
 Nikola biedt meer inzicht in zijn mappenstructuur op zijn website. Als je meer wilt weten, kun je terecht op: http://nikola.me/folder_structure.html
 
