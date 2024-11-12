@@ -5,7 +5,7 @@
 
 Deze mini-module is een kans om zelfgestuurd en onafhankelijk een aantal kernvaardigheden te leren. Tijdens de les zullen jouw instructeurs de onderwerpen van de module uitbreiden en je laten zien hoe je de vaardigheden kunt toepassen op veel complexere problemen binnen jouw studiegebied. De lessen in deze mini-module zullen je uitrusten om het volgende te doen:
 
-- Het belang van bestands- en mappenorganisatie the herkennen en dit aan jouw studie relateren.
+- Het belang van bestands- en mappenorganisatie te herkennen en dit aan jouw studie relateren.
 
 - Geschikte naamgevingsconventies gebruiken om projectbestanden systematisch te beheren.
 
